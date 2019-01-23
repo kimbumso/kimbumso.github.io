@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Kiwoong
+description:      "devlog & blog"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: Newhiwoong
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -15,7 +15,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Kiwoong Yeom
   avatar:         hmfaysal.jpg
   email:          newhiwoong@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
