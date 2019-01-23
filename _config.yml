@@ -17,20 +17,20 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 owner:
   name:           Hossain Mohd Faysal
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          newhiwoong@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    A person longing for any dream for a long time  resembles that dream at last .
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  #twitter:        hmfaysal
+  #facebook:       hmfaysal
+  github:         newhiwoong      
+  #instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  #google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
-google_verify:      
+#google_analytics:   UA-39365944-7
+#google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
