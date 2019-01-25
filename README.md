@@ -12,11 +12,11 @@
 
 Windows의 경우 마우스 오른쪽 클릭을 하여 Git Bash Here를 통해 Git을 열고 Mac이나 linux의 경우 terminal 창에서 아래 코드를 실행한다.
 
-{% highlight yaml %}
+```
 git init
 git clone https://github.com/newhiwoong/newhiwoong.github.io.git
 cd newhiwoong.github.io/
-{% endhighlight %}
+```
 ---
 
 ![](images/blog2.JPG)
@@ -46,7 +46,7 @@ clone 한 블로그의 code를 올린다면 자신의 블로그가 아니고 남
 ![](images/blog15.JPG)
 
 #### Post 제작 방법
-{% highlight yaml %}
+```
 ---
 layout: post
 title: "개인 블로그1 : 시작 계기" #post의 제목
@@ -62,7 +62,7 @@ comments: true                 #post의 댓글 사용 여부
 share: true                    #post의 댓글 공유가능 여부
 featured: true                 #post가 중요한 글인지 여부
 ---
-{% endhighlight %}
+```
 ---
 위 방식대로 post의 시작 부분을 수정하여 사용하자.
 
@@ -77,14 +77,14 @@ featured: true                 #post가 중요한 글인지 여부
 
 형광펜으로 쓴 부분들을 바꾸면 된다. `#`으로 한글로 주석을 쓴 것들을 참고 자신에게 맞게끔 만들 수 있다. 또한 아랫부분은 twitter, facebook, instagram, google_plus가 있다면 주석을 지우고 자신의 닉네임을 쓰자.
 
-{% highlight yaml %}
+```
 #twitter:        hmfaysal
 #facebook:       hmfaysal
 github:         juliuds   #자기 github username
 #instagram:      hmfaysal
 # For Google Authorship https://plus.google.com/authorship
 #google_plus:    https://plus.google.com/u/0/102602916593522619858
-{% endhighlight %}
+```
 ---
 
 그리고 아랫부분은 자신의 블로그 주소를 적는 것으로 특히 중요하다.  
@@ -112,13 +112,13 @@ github:         juliuds   #자기 github username
 
 Github 제작에서 만든 페이지를 참고해서 제작하면 된다.
 
-{% highlight yaml %}
+```
 git init
 git add *
 git commit -m "first commit"
 git remote add origin https://github.com/juliusds/juliuds.github.io.git
 git push -u origin master
-{% endhighlight %}
+```
 ---
 
 `git remote add origin https://github.com/juliusds/juliuds.github.io.git` 이 부분은 형광펜으로 칠한 부분으로 즉, 자신의 repository 경로로 작성한다.
