@@ -74,7 +74,7 @@ window.Modernizr = function (a, b, c) {
         , A = y.toLowerCase()
         .split(" ")
         , B = {
-            svg: "http://www.w3.org/2000/svg"
+            svg: "https://www.w3.org/2000/svg"
         }
         , C = {}
         , D = {}
@@ -177,7 +177,7 @@ window.Modernizr = function (a, b, c) {
     }, C.hsla = function () {
         return d("background-color:hsla(120,40%,100%,.5)"), g(t.backgroundColor, "rgba") || g(t.backgroundColor, "hsla")
     }, C.multiplebgs = function () {
-        return d("background:url(https://),url(https://),red url(https://)"), /(url\s*\(.*?){3}/.test(t.background)
+        return d("background:url(//),url(//),red url(//)"), /(url\s*\(.*?){3}/.test(t.background)
     }, C.backgroundsize = function () {
         return j("backgroundSize")
     }, C.borderimage = function () {
@@ -215,7 +215,7 @@ window.Modernizr = function (a, b, c) {
         return j("transition")
     }, C.fontface = function () {
         var a;
-        return H('@font-face {font-family:"font";src:url("https://")}', function (c, d) {
+        return H('@font-face {font-family:"font";src:url("//")}', function (c, d) {
             var e = b.getElementById("smodernizr")
                 , f = e.sheet || e.styleSheet
                 , g = f ? f.cssRules && f.cssRules[0] ? f.cssRules[0].cssText : f.cssText || "" : "";
