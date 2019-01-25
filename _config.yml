@@ -1,7 +1,9 @@
 title:            Kiwoong
 description:      "devlog & blog"
 logo:             logo.png
-disqus_shortname: Newhiwoong
+disqus_shortname: newhiwoong
+disqus_url : newhiwoong@gamil.com
+disqus_id : newhiwoong
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
