@@ -1,5 +1,5 @@
-title:            Kiwoong
-description:      "devlog & blog"
+title:            Blog of Kiwoong
+description:      "blog & devlog"
 logo:             logo.png
 disqus_shortname: newhiwoong
 disqus_url : newhiwoong@gamil.com
@@ -46,6 +46,8 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
+  - title: Tags
+    url: /tags
   - title: Categories
     url: /categories
   - title: About
