@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "개인 블로그1 : 시작 계기"
+title: "개인 블로그 1 : 시작 계기"
 description: 
 headline: 
 modified: 2019-01-23
@@ -18,6 +18,4 @@ comments: true
 
 - **페이지 예시** [jekyll-theme](https://github.com/topics/jekyll-theme), [github-pages-examples](https://github.com/collections/github-pages-examples)등에서 블로그 예시를 마음에 드는 것을 골라 블로그를 만들 수 있다.
 
-이 블로그는 아래 주소를 가지고 제작했다.
-
-[https://github.com/hmfaysal/Notepad](https://github.com/hmfaysal/Notepad)
+- 이 블로그는 옆 주소를 가지고 제작했다. -> [https://github.com/hmfaysal/Notepad](https://github.com/hmfaysal/Notepad)
