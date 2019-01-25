@@ -8,7 +8,7 @@ end
   namespace :env do
     desc 'Sets the configuration for development mode.'
     task :dev do
-      edit_config 'url', 'http://localhost:4000'
+      edit_config 'url', 'https://localhost:4000'
     end
 
     desc 'Sets the configuration for production mode.'
