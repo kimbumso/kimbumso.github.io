@@ -21,7 +21,11 @@ XXXTENTACION Presents: Members Only, Vol. 4의 마지막 트랙인 Rebirth (2016
 
 </div>
 
+<br><br><br>
+
 #### [Monologue: XXXTENTACION]  
+
+<br>
 
 **Pay attention to what you're doing in your life ‘cause your life is right in front of you, everything you need is right in front of you.**  
 너의 인생이 너의 바로 앞에 있으니까, 너가 하고 있는 일에 주의를 기울여. 너에게 필요한 모든것이 바로 앞에 있어.
