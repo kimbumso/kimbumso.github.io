@@ -17,7 +17,7 @@ XXXTENTACION Presents: Members Only, Vol. 4의 마지막 트랙인 Rebirth (2016
 
 <div align="center">
 
-[![Video Label](http://img.youtube.com/vi/gyFEw59TWec/0.jpg)](https://youtu.be/gyFEw59TWec?t=0s)
+<iframe width="668" height="376" src="https://www.youtube.com/embed/gyFEw59TWec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
