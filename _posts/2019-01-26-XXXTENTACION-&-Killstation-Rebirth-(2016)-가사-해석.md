@@ -16,10 +16,12 @@ comments: true
 XXXTENTACION Presents: Members Only, Vol. 4의 마지막 트랙인 Rebirth (2016) 가사 해석을 해보겠다. 처음하는 번역으로 오역이 많을 수도 있다.
 
 <div align="center">
+
 [![Video Label](http://img.youtube.com/vi/gyFEw59TWec/0.jpg)](https://youtu.be/gyFEw59TWec?t=0s)
+
 </div>
 
-#### [Monologue: XXXTENTACION] 
+#### [Monologue: XXXTENTACION]  
 
 **Pay attention to what you're doing in your life ‘cause your life is right in front of you, everything you need is right in front of you.**  
 너의 인생이 너의 바로 앞에 있으니까, 너가 하고 있는 일에 주의를 기울여. 너에게 필요한 모든것이 바로 앞에 있어.
