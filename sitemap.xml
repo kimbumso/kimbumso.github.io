@@ -1,99 +1,20 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
-<!-- www.check-domains.com sitemap generator -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>{{ site.url }}</loc>
+    </url>
+    
+    {% for page in site.pages %}
+    <url>
+        <loc>{{ site.url }}{{ page.url }}</loc>
+    </url>
+    {% endfor %}
 
-<url>
-   <loc>https://newhiwoong.github.io/</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>1.0000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/feed.xml</loc>
-   <lastmod>2019-01-27T16:06:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/webdevelopment/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-Google-Analytics-%EC%A0%81%EC%9A%A9%EB%B2%95</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/%EA%B0%80%EC%82%AC%20%ED%95%B4%EC%84%9D/XXXTENTACION-Sauce-%EA%B0%80%EC%82%AC-%ED%95%B4%EC%84%9D</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/webdevelopment/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EA%B2%80%EC%83%89-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/webdevelopment/Disqus%EB%A1%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/%EA%B0%80%EC%82%AC%20%ED%95%B4%EC%84%9D/XXXTENTACION-&amp;-Killstation-Rebirth-(2016)-%EA%B0%80%EC%82%AC-%ED%95%B4%EC%84%9D</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/page2/</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/featured/</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/tags/</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/categories/</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/about/</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/BAM-Bottleneck-Attention-Module-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/webdevelopment/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EB%B2%95</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
-<url>
-   <loc>https://newhiwoong.github.io/webdevelopment/first-post</loc>
-   <lastmod>2019-01-27T15:55:15+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.6400</priority>
-</url>
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+    </url>
+    {% endfor %}
 </urlset>
