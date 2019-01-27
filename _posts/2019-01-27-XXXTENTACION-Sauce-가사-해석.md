@@ -58,7 +58,7 @@ XXXTENTACION Presents: Members Only, Vol. 4의 XXXTENTACION의 솔로곡인 Sauc
 (너는 내가 무슨 말을 하는지 알지? Ay-ay-ay)
 
 **It's a carnival ride! (Yeah)**  
-이것은 카니발 리무진 타기! (Yeah) 
+이것은 카니발 리무진 타기! (Yeah)  
 `카니발이 리무진을 뜻하는 거 같다. (확실하지는 않다)`
 
 **Yeah, yeah (Oh my, oh my, oh my, oh my, yuh)**
