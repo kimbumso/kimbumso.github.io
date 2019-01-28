@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://newhiwoong.github.io/">
-    <img width="600" src="images/main_word.JPG">
+    <img src="images/main_word.JPG">
   </a>
 </p>
- 
+
+ <br><br><br>
 <h2 align="center">Various information sharing</h4>
 
 <p align="center">
@@ -52,13 +53,17 @@
     <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg"></a>
 </p>
 
-## 📖 Github Blog Start
+## 👑 Intro
 
 <p align="center">
 
 ![](images/main.gif) 
 
 </p>
+
+Blog에 들어가서 각종 정보들과 [categories](https://newhiwoong.github.io/categories/), [tags](https://newhiwoong.github.io/tags/), [about](https://newhiwoong.github.io/about/) 등을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자.
+
+## 📖 Github Blog Start
 
 -  [Github로 자신만의 블로그를 만드는 방법](https://newhiwoong.github.io/webdevelopment/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EB%B2%95)
 -  [Disqus로 Github 블로그 댓글 기능 추가](https://newhiwoong.github.io/webdevelopment/Disqus%EB%A1%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)
