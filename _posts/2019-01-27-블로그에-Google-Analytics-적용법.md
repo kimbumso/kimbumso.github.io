@@ -43,4 +43,8 @@ Tracking ID를 복사해서
 
 저장 후 `git pull`을 진행하고 [Google Analyticss](https://analytics.google.com/) `Real-Time`에 `Overview`에 들어가면 추적 내용을 확인할 수 있다. 
 
-![]({{ site.url }}/images/ga9.JPG)  
+![]({{ site.url }}/images/ga9.JPG) 
+
+![]({{ site.url }}/images/ga.png) 
+
+![]({{ site.url }}/images/ga2.GIF) 
