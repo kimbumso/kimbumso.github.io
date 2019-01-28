@@ -47,7 +47,7 @@ XXXTENTACION Presents: Members Only, Vol. 4의 XXXTENTACION의 솔로곡인 Sauc
 너의 여자친구를 끌어당겨, 그녀의 스웩을 가져 (내가 빌어먹을 거 처럼)  
 `shawty는 매력적인 여자 혹은 여자친구를 상징한다고 한다.`
 
-**Sauce on 'ya nigga, got the sauce on me (Like I fucking killed)**
+**Sauce on 'ya nigga, got the sauce on me (Like I fucking killed)**  
 흑인의 스웩이 있어, 나만의 스웩이 있어 (내가 죽인 것처럼)  
 
 ####  [Interlude] 
