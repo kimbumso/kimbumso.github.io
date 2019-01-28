@@ -1,12 +1,13 @@
 <p align="center">
-  <a href="http://ant.design">
-    <img src="main_word.JPG">
+  <a href="https://newhiwoong.github.io/">
+    <img width="600" src="images/main_word.JPG">
   </a>
 </p>
 
-<h2 align="center">BLOG OF KIWOONG'S</h2>
-
 <p align="center">
+ 
+ <h3 align="center">An clean design Jekyll theme blog</h4>
+ 
   <em>
     Machine Learning
     · Deep Learning
@@ -30,8 +31,8 @@
   </em>
   <br />
   <em>
-    <a href="https://newhiwoong.github.io">
-      Goto blog link!
+    <a href="https://newhiwoong.github.io/categories/">
+      Goto blog categories!
     </a>
   </em>
 </p>
