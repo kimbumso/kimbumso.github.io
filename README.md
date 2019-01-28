@@ -45,7 +45,7 @@
     <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
   <br/>
   <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-%20%F0%9F%93%95%20Github%20%20-lightgrey.svg?style=popout&logo=appveyor"></a>
+    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg?style=popout&logo=appveyor"></a>
 </p>
 
 ## Github Blog Start
@@ -63,10 +63,10 @@ git add *
 git commit -m "yyyy-mm-dd-commit-post"
 git push origin master
 ```
+Post 작성 후 Upload 진행
 
-
-## Base code
-> https://github.com/hmfaysal/Notepad
+## Base code 💫
+> https://github.com/hmfaysal/Notepad 
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_large)
