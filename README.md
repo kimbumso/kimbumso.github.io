@@ -49,7 +49,7 @@
     <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
   <br/>
   <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg"></a>
+    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg?style=popout-square&logo=appveyor"></a>
 </p>
 
 ## 👑 Intro
@@ -62,7 +62,7 @@
 
 [Blog](https://newhiwoong.github.io/)에 들어가서 각종 정보들과 [categories](https://newhiwoong.github.io/categories/), [tags](https://newhiwoong.github.io/tags/), [about](https://newhiwoong.github.io/about/) 등을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 
 
-✨✨ Star 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
+✨✨ 그리고 [Star](https://github.com/newhiwoong/newhiwoong.github.io/stargazers) 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
 
 ## 📖 Github Blog Start
 
@@ -74,7 +74,7 @@
 -  [수준급의 Github README.md 작성하기](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ### 👨‍💻 Upload
-각종 [Post](https://github.com/newhiwoong/newhiwoong.github.io/tree/master/_posts) 작성 후 Upload 진행  
+각종 [Post](https://github.com/newhiwoong/newhiwoong.github.io/tree/master/_posts) 작성 후 `git push` 진행  
 ```
 git add *
 git commit -m "yyyy-mm-dd-commit-post"
