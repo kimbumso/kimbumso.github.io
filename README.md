@@ -1,19 +1,22 @@
-# newhiwoong.github.io
 <p align="center">
 
 ![](images/main.JPG)  
 
-<h2 align="center">BLOG OF KIWOONG'S</h2>
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield)
-[![licenses](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![results](https://img.shields.io/badge/results-Web-blue.svg)](https://opensource.org/licenses/MIT)  
-
 </p>
 
-## 개요
+<h2 align="center">BLOG OF KIWOONG'S</h2>
 
-Machine Learning, Deep Learning, Webdevelopment, 논문 리뷰, 가사 해석, 기타 정보 공유 등 각종 정보 공유를 하는 [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
+<p align="center">
+  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield">
+    <img alt="FOSSA Status" src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield"></a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="licenses" src="https://img.shields.io/badge/licenses-MIT-red.svg"></a>
+  <a href="https://newhiwoong.github.io">
+    <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
+</p>
+
+
+> Machine Learning, Deep Learning, Webdevelopment, 논문 리뷰, 가사 해석, 기타 정보 공유 등 각종 정보 공유를 하는 [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
 
 ## Github 블로그 제작법 및 팁
 
