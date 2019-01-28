@@ -1,12 +1,19 @@
 # newhiwoong.github.io
+<p align="center">
 
-[![licenses](https://img.shields.io/badge/licenses-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)[![results](https://img.shields.io/badge/results-Web-blue.svg)](https://opensource.org/licenses/MIT)  
+![](images/main.JPG)  
 
-> [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
+<h2 align="center">BLOG OF KIWOONG'S</h2>
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield)
+[![licenses](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![results](https://img.shields.io/badge/results-Web-blue.svg)](https://opensource.org/licenses/MIT)  
 
+</p>
 
+## 개요
 
+Machine Learning, Deep Learning, Webdevelopment, 논문 리뷰, 가사 해석, 기타 정보 공유 등 각종 정보 공유를 하는 [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
 
 ## Github 블로그 제작법 및 팁
 
@@ -25,42 +32,12 @@
 7. [수준급의 Github README.md 작성하기](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 
-
-### Post 제작 윗부분
-
-```
----
-layout: post
-title: "개인 블로그1 : 시작 계기" #post의 제목
-description:         
-headline: 
-modified: 2019-01-23           #post의 날짜
-category: webdevelopment       #post의 카테고리
-tags: [jekyll]                 #post의 태그
-imagefeature: cover10.jpg      #post의 앞에 나오는 사진
-mathjax: 
-chart: 
-comments: true                 #post의 댓글 사용 여부
-share: true                    #post의 댓글 공유가능 여부
-featured: true                 #post가 중요한 글인지 여부
----
-```
-
----
-
-위 방식대로 post의 시작 부분을 수정하여 사용하자.
-
-
-
 ### 블로그 올리기
-
 ```
 git add *
 git commit -m "yyyy-mm-dd-commit-post"
 git push origin master
 ```
-
----
 
 post를 작성하면 위와 같이 `git push` 작업을 해서 블로그에 올리자.
 
