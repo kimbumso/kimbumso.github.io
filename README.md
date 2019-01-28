@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://ant.design">
-    <img width="250" src="images/main_logo.png">
+    <img src="main_word.JPG">
   </a>
 </p>
 
