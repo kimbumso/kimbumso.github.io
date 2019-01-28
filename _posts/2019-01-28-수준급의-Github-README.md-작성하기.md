@@ -4,7 +4,7 @@ title: "수준급의 Github README.md 작성하기"
 description: 
 headline: 
 modified: 2019-01-28
-category: webdevelopment
+category: 기타 정보 공유
 tags: [README.md, github, Emoji, shields]
 imagefeature: 
 mathjax: 
