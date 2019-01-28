@@ -13,7 +13,7 @@ share: true
 comments: true
 ---
 
-`Github`를 사용하거나  등등 여러 사람들에게는 `Markdown Editor`이 필요하다. 바로바로 `Markdown`형식이 적용되는 `Editor`가 있으면 좋을 거 같다고 생각하는 중에 [Mark Text](https://github.com/marktext/marktext)를 발견했다.
+Github를 사용하거나  등등 여러 사람들에게는 Markdown Editor이 필요하다. 바로바로 Markdown형식이 적용되는 Editor가 있으면 좋을 거 같다고 생각하는 중에 [Mark Text](https://github.com/marktext/marktext)를 발견했다.
 
 
 
@@ -25,6 +25,10 @@ Github 페이지에 [Mark Text](https://github.com/marktext/marktext) 설명이 
 
 
 
+<div align="center">
+
+
+
 ## Download and Install
 
 ![Conda](https://img.shields.io/conda/pn/conda-forge/python.svg?style=for-the-badge)
@@ -33,11 +37,13 @@ Github 페이지에 [Mark Text](https://github.com/marktext/marktext) 설명이 
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![latest version](https://img.shields.io/github/downloads/marktext/marktext/latest/marktext-0.13.65.dmg.svg)](https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-0.13.65.dmg) | [![latest version](https://img.shields.io/github/downloads/marktext/marktext/latest/marktext-setup-0.13.65.exe.svg)](https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe) | [![latest version](https://img.shields.io/github/downloads/marktext/marktext/latest/marktext-0.13.65-x86_64.AppImage.svg)](https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-0.13.65-x86_64.AppImage) |
 
-Can't find your system? Go to the [release page](https://github.com/marktext/marktext/releases/latest). Is a version for your system unavailable? Than open an [issue](https://github.com/marktext/marktext/issues).
-
 
 
 위에서와 같이 설치를 하면 사용할 수 있다.
+
+
+
+</div>
 
 
 
