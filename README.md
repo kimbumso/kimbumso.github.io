@@ -1,9 +1,3 @@
-<p align="center">
-
-![](images/main.gif)  
-
-</p>
-
 <h2 align="center">BLOG OF KIWOONG'S</h2>
 
 <p align="center">
@@ -48,6 +42,14 @@
     <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg?style=popout&logo=appveyor"></a>
 </p>
 
+<p align="center">
+
+![](images/main.gif) 
+
+</p>
+
+한국어 | English(I'm scheduled to)
+
 ## 📖 Github Blog Start
 -  [Github로 자신만의 블로그를 만드는 방법](https://newhiwoong.github.io/webdevelopment/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EB%B2%95)
 -  [Disqus로 Github 블로그 댓글 기능 추가](https://newhiwoong.github.io/webdevelopment/Disqus%EB%A1%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)
@@ -65,10 +67,9 @@ git push origin master
 ```
 
 ## 💫 Base Code 
-- 🌐 https://github.com/hmfaysal/Notepad  
-- 📚 https://github.com/newhiwoong/prettier
+- [🌐 Blog Code를 사용한 Notepad](https://github.com/hmfaysal/Notepad)
+- [📚 README.md를 참고한 Prettier](https://github.com/prettier/prettier)
+- [📚 README.md를 참고한 Ant Design](https://github.com/ant-design/ant-design)
 
-## ©️ License
-MIT © [Kiwoong](https://newhiwoong.github.io/)
-
+## 📜 License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_large)
