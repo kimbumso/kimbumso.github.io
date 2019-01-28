@@ -63,5 +63,7 @@ git push origin master
 
 
 ## Base code
-
 > https://github.com/hmfaysal/Notepad
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_large)
