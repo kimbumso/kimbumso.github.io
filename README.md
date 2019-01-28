@@ -4,8 +4,7 @@
   </a>
 </p>
  
-<h4 align="center">An clean design Jekyll theme blog and Various information sharing</h4>
-<p  align="center"> <sub> Using code by <a href="https://github.com/hmfaysal/Notepad">Notepad of hmfaysal </sub> </p>
+<h2 align="center">Various information sharing</h4>
 
 <p align="center">
   </a> 
@@ -40,11 +39,6 @@
 </p>
 
 
-<p align="center">
-
-![](images/main.gif) 
-
-</p>
 
 <p align="center">
   <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield">
@@ -59,6 +53,13 @@
 </p>
 
 ## 📖 Github Blog Start
+
+<p align="center">
+
+![](images/main.gif) 
+
+</p>
+
 -  [Github로 자신만의 블로그를 만드는 방법](https://newhiwoong.github.io/webdevelopment/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EB%B2%95)
 -  [Disqus로 Github 블로그 댓글 기능 추가](https://newhiwoong.github.io/webdevelopment/Disqus%EB%A1%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)
 -  [Github 블로그를 인터넷에서 검색할 수 있게 만들기](https://newhiwoong.github.io/webdevelopment/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EA%B2%80%EC%83%89-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
