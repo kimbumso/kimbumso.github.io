@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="http://ant.design">
+    <img width="500" src="images/main_logo.png">
+  </a>
+</p>
+
 <h2 align="center">BLOG OF KIWOONG'S</h2>
 
 <p align="center">
@@ -67,9 +73,9 @@ git push origin master
 ```
 
 ## 💫 Base Code 
-- [🌐 Blog Code를 사용한 Notepad](https://github.com/hmfaysal/Notepad)
-- [📚 README.md를 참고한 Prettier](https://github.com/prettier/prettier)
-- [📚 README.md를 참고한 Ant Design](https://github.com/ant-design/ant-design)
+- [Blog Code를 사용한 Notepad](https://github.com/hmfaysal/Notepad)
+- [README.md를 참고한 Prettier](https://github.com/prettier/prettier)
+- [README.md를 참고한 Ant Design](https://github.com/ant-design/ant-design)
 
 ## 📜 License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_large)
