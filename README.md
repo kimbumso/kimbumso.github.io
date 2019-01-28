@@ -3,11 +3,15 @@
     <img width="600" src="images/main_word.JPG">
   </a>
 </p>
+ 
+ 
+<h4 align="center">An clean design Jekyll theme blog and Various information sharing</h4>
 
 <p align="center">
- 
- <h3 align="center">An clean design Jekyll theme blog</h4>
- 
+  <sub> Using code by <a href="https://github.com/hmfaysal/Notepad">Notepad of hmfaysal</a> 
+    </a>
+  </sub>
+  <br><br>
   <em>
     Machine Learning
     · Deep Learning
@@ -55,8 +59,6 @@
 
 </p>
 
-한국어 | English(I'm scheduled to)
-
 ## 📖 Github Blog Start
 -  [Github로 자신만의 블로그를 만드는 방법](https://newhiwoong.github.io/webdevelopment/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EB%B2%95)
 -  [Disqus로 Github 블로그 댓글 기능 추가](https://newhiwoong.github.io/webdevelopment/Disqus%EB%A1%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)
@@ -66,7 +68,7 @@
 -  [수준급의 Github README.md 작성하기](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ### 👨‍💻 Upload
-[Post](https://github.com/newhiwoong/newhiwoong.github.io/tree/master/_posts) 작성 후 Upload 진행  
+각종 [Post](https://github.com/newhiwoong/newhiwoong.github.io/tree/master/_posts) 작성 후 Upload 진행  
 ```
 git add *
 git commit -m "yyyy-mm-dd-commit-post"
