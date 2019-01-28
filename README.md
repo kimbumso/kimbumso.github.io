@@ -4,7 +4,6 @@
   </a>
 </p>
 
- <br><br><br>
 <h2 align="center">Various information sharing</h4>
 
 <p align="center">
@@ -61,7 +60,9 @@
 
 </p>
 
-Blog에 들어가서 각종 정보들과 [categories](https://newhiwoong.github.io/categories/), [tags](https://newhiwoong.github.io/tags/), [about](https://newhiwoong.github.io/about/) 등을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자.
+[Blog](https://newhiwoong.github.io/)에 들어가서 각종 정보들과 [categories](https://newhiwoong.github.io/categories/), [tags](https://newhiwoong.github.io/tags/), [about](https://newhiwoong.github.io/about/) 등을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 
+
+✨✨ Star 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
 
 ## 📖 Github Blog Start
 
