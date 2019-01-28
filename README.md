@@ -57,17 +57,16 @@
 -  [수준급의 Github README.md 작성하기](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ### 👨‍💻 Upload
+[Post](https://github.com/newhiwoong/newhiwoong.github.io/tree/master/_posts) 작성 후 Upload 진행  
 ```
 git add *
 git commit -m "yyyy-mm-dd-commit-post"
 git push origin master
 ```
-<span style="color:red"> [Post](https://github.com/newhiwoong/newhiwoong.github.io/tree/master/_posts) </span> 작성 후 Upload 진행
 
 ## 💫 Base Code 
-🌐은 *Blog Code*, 📚은 *README Code*  
-> 🌐 https://github.com/hmfaysal/Notepad  
-> 📚 https://github.com/newhiwoong/prettier
+- 🌐 https://github.com/hmfaysal/Notepad  
+- 📚 https://github.com/newhiwoong/prettier
 
 ## ©️ License
 MIT © [Kiwoong](https://newhiwoong.github.io/)
