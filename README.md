@@ -6,6 +6,40 @@
 
 <h2 align="center">BLOG OF KIWOONG'S</h2>
 
+> Machine Learning, Deep Learning, Webdevelopment, 논문 리뷰, 가사 해석, 기타 정보 공유 등 각종 정보 공유를 하는 [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
+
+
+<p align="center">
+  <em>
+    Machine Learning
+    · Deep Learning
+  </em>
+  <br />
+  <em>
+    Webdevelopment
+    · Github
+    · Blog
+  </em>
+  <br />
+  <em>
+    논문 리뷰
+    · 각종 강의 설명
+  </em>
+  <br />
+  <em>
+    기타 정보 공유
+    · 가사 해석
+    · Markdown
+  </em>
+  <br />
+  <em>
+    <a href="https://newhiwoong.github.io">
+      BLOG OF KIWOONG'S link!
+    </a>
+  </em>
+</p>
+
+
 <p align="center">
   <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield">
     <img alt="FOSSA Status" src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield"></a>
@@ -16,9 +50,8 @@
 </p>
 
 
-> Machine Learning, Deep Learning, Webdevelopment, 논문 리뷰, 가사 해석, 기타 정보 공유 등 각종 정보 공유를 하는 [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
 
-## Github 블로그 제작법 및 팁
+## Github Blog Start
 
 1. [개인 블로그 1 : 시작 계기](https://newhiwoong.github.io/webdevelopment/first-post)
 
@@ -35,15 +68,12 @@
 7. [수준급의 Github README.md 작성하기](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
 
-### 블로그 올리기
+### Upload
 ```
 git add *
 git commit -m "yyyy-mm-dd-commit-post"
 git push origin master
 ```
-
-post를 작성하면 위와 같이 `git push` 작업을 해서 블로그에 올리자.
-
 
 
 ## Base code
