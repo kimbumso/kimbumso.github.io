@@ -4,13 +4,13 @@
   </a>
 </p>
  
- 
-<h4 align="center">An clean design Jekyll theme blog and Various information sharing</h4>
+<h4 align="center">An clean design Jekyll theme blog and Various information sharing
+</h4>
+<p  align="center"> <sub> Using code by <a href="https://github.com/hmfaysal/Notepad">Notepad of hmfaysal </sub> </p>
 
 <p align="center">
-  <sub> Using code by <a href="https://github.com/hmfaysal/Notepad">Notepad of hmfaysal</a> 
+  </a> 
     </a>
-  </sub>
   <br><br>
   <em>
     Machine Learning
