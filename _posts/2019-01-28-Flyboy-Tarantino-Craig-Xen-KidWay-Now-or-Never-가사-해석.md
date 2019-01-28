@@ -26,6 +26,7 @@ XXXTENTACION Presents: Members Only, Vol. 4의 XXXTENTACION과 친한 Flyboy Tar
 <br><br><br>
 
 #### [Intro: Flyboy Tarantino]
+
 **Alright, so fast**  
 그래, 너무 빨리
 
@@ -46,6 +47,7 @@ Duh, duh, duh, duh, 절대로
 `'너는 그것을 할 수 있는 또 다른 기회가 오지 않을 것이다' 라는 의미라고 한다.`
 
 #### [Verse 1: Flyboy Tarantino]
+
 **Tell me why did you leave so fast?**  
 내게 말해줘 왜 그렇게 빨리 떠난 거야?
 
@@ -72,6 +74,7 @@ Duh, duh, duh, duh, 절대로
 기다려, 말해줘, 지금이 아니면 안 돼 
 
 #### [Verse 2: Flyboy Tarantino with Craig Xen]
+
 **Tell me why did you leave so fast?**  
 내게 말해줘 왜 그렇게 빨리 떠난 거야?
 
@@ -97,6 +100,7 @@ Duh, duh, duh, duh, 절대로
 기다려, 말해줘, 지금이 아니면 절대로
 
 #### [Verse 3: Craig Xen with Flyboy Tarantino]
+
 **Tell me why did you leave so fast?**  
 내게 말해줘 왜 그렇게 빨리 떠난 거야?
 
@@ -116,6 +120,7 @@ Duh, duh, duh, duh, 절대로
 지금이 아니면 절대로
 
 #### [Verse 4: KidWay with Flyboy Tarantino]
+
 **Tell me why did you leave so fast?**  
 내게 말해줘 왜 그렇게 빨리 떠난 거야?
 
@@ -138,6 +143,7 @@ Duh, duh, duh, duh, 절대로
 지금이 아니면 안 돼 
 
 #### [Verse 5: Craig Xen with Flyboy Tarantino]
+
 **Tell me why did you leave so fast?**  
 내게 말해줘 왜 그렇게 빨리 떠난 거야?
 
@@ -157,14 +163,17 @@ Duh, duh, duh, duh, 절대로
 지금이 아니면 절대로
 
 #### [Outro: Craig Xen]
+
 **Fuck, dude**  
 젠장, X  
 `dude은 친구를 의미하고 그들이 말하는 친구는 X일 것이다`
 
 ## 뒷이야기
-1. "Now or Never"에서 Flyboy Tarantino, Craig Xen, & KidWay는 서둘러 떠난 특별한 사람에 관해 이야기하고 있습니다. 그들은 이 사람과 함께 좋고 나쁜 시간을 보냈고 그들은 좋고 나쁜 방법으로 그들에게 영향을 주었습니다. 그들은 X가 이 순간을 잡으려고 할 것인지 아니면 떠나게 할 것인지 결정하게 합니다. 그들이 말하는 사람들은 2018년 6월 18일에 사망 한 XXXTentacion일 것이다.
+
+1. "Now or Never"에서 Flyboy Tarantino, Craig Xen, & KidWay는 서둘러 떠난 특별한 사람에 관해 이야기하고 있습니다. 그들은 이 사람과 함께 좋고 나쁜 시간을 보냈고 그들은 좋고 나쁜 방법으로 그들에게 영향을 주었습니다. 그들은 X가 이 순간을 잡으려고 할 것인지 아니면 떠나게 할 것인지 결정하게 합니다. 그들이 말하는 사람들은 2018년 6월 18일에 사망 한 XXXTentacion일 것입니다.
 
 2. 노래에서 그의 친구들은 "왜 이렇게 빨리 떠나느냐고"라고 묻습니다. XXXTentacion은 20살의 나이로 사망하였습니다.  
-> 2018년 6월 18일 오후 3시 30분경 X는 마이애미 Deerfield Beach에서 오토바이 매장을 둘러본 뒤 차를 타고 나오던 도중 검은색 닷지 저니에 타고 있던 2명의 괴한에게 총격을 받고 5시 30분에 숨졌다. https://namu.wiki/w/XXXTENTACION#s-2.6
+
+   > 2018년 6월 18일 오후 3시 30분경 X는 마이애미 Deerfield Beach에서 오토바이 매장을 둘러본 뒤 차를 타고 나오던 도중 검은색 닷지 저니에 타고 있던 2명의 괴한에게 총격을 받고 5시 30분에 숨졌다. https://namu.wiki/w/XXXTENTACION#s-2.6
 
 > 참고 : https://genius.com/Flyboy-tarantino-craig-xen-and-kidway-now-or-never-lyrics  
