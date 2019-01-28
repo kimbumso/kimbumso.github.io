@@ -6,8 +6,6 @@
 
 <h2 align="center">BLOG OF KIWOONG'S</h2>
 
-> Machine Learning, Deep Learning, Webdevelopment, 논문 리뷰, 가사 해석, 기타 정보 공유 등 각종 정보 공유를 하는 [BLOG OF KIWOONG'S](https://newhiwoong.github.io)의 CODE
-
 
 <p align="center">
   <em>
@@ -16,19 +14,19 @@
   </em>
   <br />
   <em>
-    Webdevelopment
+    Web
     · Github
     · Blog
   </em>
   <br />
   <em>
-    논문 리뷰
-    · 각종 강의 설명
+    Paper
+    · Lecture
   </em>
   <br />
   <em>
-    기타 정보 공유
-    · 가사 해석
+    ETC
+    · lyrics
     · Markdown
   </em>
   <br />
