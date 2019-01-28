@@ -4,14 +4,12 @@
   </a>
 </p>
  
-<h4 align="center">An clean design Jekyll theme blog and Various information sharing
-</h4>
+<h4 align="center">An clean design Jekyll theme blog and Various information sharing</h4>
 <p  align="center"> <sub> Using code by <a href="https://github.com/hmfaysal/Notepad">Notepad of hmfaysal </sub> </p>
 
 <p align="center">
   </a> 
     </a>
-  <br><br>
   <em>
     Machine Learning
     · Deep Learning
@@ -41,6 +39,13 @@
   </em>
 </p>
 
+
+<p align="center">
+
+![](images/main.gif) 
+
+</p>
+
 <p align="center">
   <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield">
     <img alt="FOSSA Status" src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield"></a>
@@ -50,13 +55,7 @@
     <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
   <br/>
   <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg?style=popout&logo=appveyor"></a>
-</p>
-
-<p align="center">
-
-![](images/main.gif) 
-
+    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg"></a>
 </p>
 
 ## 📖 Github Blog Start
