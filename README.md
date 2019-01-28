@@ -45,7 +45,7 @@
     <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
   <br/>
   <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-%20%F0%9F%93%95%20Github%20%20-lightgrey.svg?style=social&logo=appveyor"></a>
+    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-%20%F0%9F%93%95%20Github%20%20-lightgrey.svg?style=popout&logo=appveyor"></a>
 </p>
 
 ## Github Blog Start
