@@ -56,7 +56,6 @@ comments: true
 
 {% highlight yaml %}
 def make_cloud(tmp_data, back_image_n,state="no", font_n = "UnDinaru.ttf",background_color_n='white', max_font_size_n = 40):
-
 back_image_n = "image 폴더에 있는 사진 중 Word Cloud의 모습이 되길 바라는 사진"
 state = "Word Cloud의 표현되는 색"
        "no"         #랜덤하게 출력합니다.
