@@ -51,6 +51,13 @@
     <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg"></a>
 </p>
 
+
+<p align="center">
+
+![](images/main.gif) 
+
+</p>
+
 <div align="center">
   <h3>
     <a href="https://marktext.github.io/website">
@@ -78,12 +85,6 @@
     </a>
   </h3>
 </div>
-
-<p align="center">
-
-![](images/main.gif) 
-
-</p>
 
 KIWOONG'S BLOG에 들어가서 각종 정보들을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 그리고 ✨✨ Star 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
 
