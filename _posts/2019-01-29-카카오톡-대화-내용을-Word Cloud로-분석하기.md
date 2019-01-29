@@ -13,15 +13,15 @@ share: true
 comments: true
 ---
 
-많은 사람들이 카카오톡을 자주 사용한다. 그렇다면 사람들과 카카오톡을 한 내용에서 등장한 단어들을 한눈에 보여주는 Word Cloud를 작성하면 어떨까?
+많은 사람이 카카오톡을 자주 사용한다. 그렇다면 사람들과 카카오톡을 한 내용에서 등장한 단어들을 한눈에 보여주는 `Word Cloud`를 작성하면 어떨까?
 
-## 카카오톡 대화내용 내보내기
+## 카카오톡 대화 내용 내보내기
 
 ![]({{ site.url }}/images/KakaoTalk_WC0.jpg)  
 먼저 카카오톡 대화방 상단에 오른쪽 위를 클릭하고
 
 ![]({{ site.url }}/images/KakaoTalk_WC1.jpg)  
-왼쪽 아래에 설정창으로 이동한다.
+왼쪽 아래에 설정 창으로 이동한다.
 
 ![]({{ site.url }}/images/KakaoTalk_WC2.jpg)  
 ![]({{ site.url }}/images/KakaoTalk_WC3.jpg)  
@@ -35,24 +35,24 @@ comments: true
 보낸 후 다운로드를 받자.
 
 ## Word Cloud 제작
-먼저 [Github Code](https://github.com/newhiwoong/Multipurpose_Word_Cloud)를 다운받자. 그리고 `Github`에 설치 부분을 따라해서 `Word Cloud`를 제작할 수 있는 환경을 만들자.
+먼저 [Github Code](https://github.com/newhiwoong/Multipurpose_Word_Cloud)를 다운받자. 그리고 `Github`에 설치 부분을 따라 해서 `Word Cloud`를 제작할 수 있는 환경을 만들자.
 
 ![]({{ site.url }}/images/KakaoTalk_WC11.jpg)  
 다운로드 받은 `KakaoTalkChats.txt`파일을 `Multipurpose_Word_Cloud`폴더 안에 넣자.
 
 ![]({{ site.url }}/images/KakaoTalk_WC7.jpg)  
-`jupyter notebook`을 실행하고 필요한 라이브러리 import와 `keyword_count`함수를 실행하자.
+`jupyter notebook`을 실행하고 필요한 라이브러리 import와 `keyword_count` 함수를 실행하자.
 
 ![]({{ site.url }}/images/KakaoTalk_WC8.jpg)  
-`ls`명령어로 다운받은 파일이 잘 있는지 확인하고 `keyword_count`을 진행하자.
+`ls`명령어로 다운받은 파일이 잘 있는지 확인하고 `keyword_count`를 진행하자.
 
 ![]({{ site.url }}/images/KakaoTalk_WC9.jpg)  
 `Word Cloud`를 진행하는데 필요한 함수들을 실행하고
 
-![]({{ site.url }}/images/KakaoTalk_WC9.jpg)  
+![]({{ site.url }}/images/KakaoTalk_WC10.jpg)  
 `make_cloud`를 실행해서 `Word Cloud`를 진행하자.
 
-자신이 원하는 방식의 `Word Cloud`제작을 위해서 아래 코드 설명을 참고하자.
+자신이 원하는 방식의 `Word Cloud` 제작을 위해서 아래 코드 설명을 참고하자.
 
 {% highlight yaml %}
 def make_cloud(tmp_data, back_image_n,state="no", font_n = "UnDinaru.ttf",background_color_n='white', max_font_size_n = 40):
@@ -74,4 +74,4 @@ max_font_size_n = "Word Cloud에 표시할 글씨의 최대 크기"
 ![]({{ site.url }}/images/KakaoTalk_WC2.png)  
 ![]({{ site.url }}/images/KakaoTalk_WC3.png)  
 
-이제 자신이 원하는 내용의 자기만의 `Word Cloud`를 만들어서 긴 대화 내용을 한 눈에 알아보자.
+이제 자신이 원하는 내용의 자기만의 `Word Cloud`를 만들어서 긴 대화 내용을 한눈에 알아보자.
