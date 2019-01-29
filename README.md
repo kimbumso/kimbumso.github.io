@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://newhiwoong.github.io/">
-    <img src="images/main_logo.png">
+    <img width=700 src="images/main_logo.png">
   </a>
 </p>
 
@@ -32,8 +32,8 @@
   </em>
   <br />
   <em>
-    <a href="https://newhiwoong.github.io">
-      Goto KIWOONG'S BLOG!
+    <a href="https://newhiwoong.github.io/categories/">
+      GOTO CATEGORY INDEX!
     </a>
   </em>
 </p>
@@ -86,7 +86,9 @@
   </h3>
 </div>
 
-KIWOONG'S BLOG에 들어가서 각종 정보들을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 그리고 ✨✨ Star 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
+<div align="center">
+    <sub> 자신의 <a href="https://github.com/newhiwoong/newhiwoong.github.io/network/members">BLOG</a>를 어떻게 꾸밀지 생각해보자.🙇‍♂️🙇‍♀️ <a href="https://github.com/newhiwoong/newhiwoong.github.io/stargazers">Stargazers</a>  </sub>
+</div>
 
 ## 📖 Github Blog Start
 
