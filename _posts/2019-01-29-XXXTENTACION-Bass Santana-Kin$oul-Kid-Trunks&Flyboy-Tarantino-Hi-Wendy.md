@@ -13,7 +13,7 @@ share: true
 comments: true
 ---
  
-XXXTENTACION Presents: Members Only, Vol. 4의 Hi Wendy! 가사 해석을 해보겠다. 참고로 오역이 많을 수 있다. 그리고 가사해석을 하면서 약간의 충격을 먹었다. 성적이고 폭력적인 이야기가 많음으로 미성년자는 안 보기를 권한다.
+XXXTENTACION Presents: Members Only, Vol. 4의 Hi Wendy! 가사 해석을 해보겠다. 참고로 오역이 많을 수 있다. 그리고 가사해석을 하면서 살짝 약간의 충격을 받았다. 성적이고 폭력적인 이야기가 많음으로 미성년자는 안 보기를 권한다.
 
 <br>
 
@@ -28,9 +28,9 @@ XXXTENTACION Presents: Members Only, Vol. 4의 Hi Wendy! 가사 해석을 해보
 ![](https://images.genius.com/a3474a7ce896b58c9b5a1ac712e7f512.1000x721x1.jpg)  
 Wendy’s 로고
 
-> This song is named after Wendy’s, the American international fast food restaurant chain. X correlates having sexual relations with white women to the Wendy’s logo.
+> This song is named after Wendy’s, the American international fast food restaurant chain. X correlates having sexual relations with white women to the Wendy’s logo.  
 > 이 노래는 미국의 국제 패스트푸드 레스토랑 체인인 Wendy's의 이름을 따서 명명되었다고 한다.  
-> X는 웬디의 로고와 관련있는 백인 여성과 성적 관계가 있음을 나타낸다고 한다.
+> X는 웬디의 로고와 관련 있는 백인 여성과 성적 관계가 있음을 나타낸다고 한다.
 
 #### [Intro: XXXTENTACION]
 **Really, nigga**  
@@ -96,7 +96,7 @@ Bass가 영광이 되려면
 그 가슴은 평균 (Ah)
 
 **But all titties matter (Ah)**  
-그러나 모든 가슴은 중요 (Ah)
+그러나 모든 가슴은 중요해 (Ah)
 
 **LIl' bitch, I'm an animal (Ah)**  
 작은 bitch, 나는 동물이야 (Ah)
@@ -118,7 +118,7 @@ Bass가 영광이 되려면
 나는 그들의(자신의) 한계를 아는 년을 좋아해 (Bitch)
 
 **Nappy boy, no bitch, don't touch my hat (Bitch)**  
-꼬마야, 개자식아, 내 모자를 건드리지마 (Bitch)  
+꼬마야, 아니 개자식아, 내 모자를 건드리지 마 (Bitch)  
 `hat이 모자뿐만이 아닌 자존심, 장 등등 여러 의미가 있다고 한다`
 
 **Keep some rubbers in my denim (Slatt)**  
@@ -128,23 +128,23 @@ Bass가 영광이 되려면
 나는 방금 그 년을 쳤어, 너는 다시 전화해 (Ah)
 
 **Ugly niggas always winning (Huh)**  
-추한 녀석은 항상 이겨 (Hub)
+비열한 녀석은 항상 이겨 (Hub)
 
 #### [Verse 2: Flyboy Tarantino]
-**White girl looking like cocaine powder, ooh**
+**White girl looking like cocaine powder, ooh**  
 코카인 파우더처럼 보이는 백인 여자, 우
 
 **Ass out, and she like to keep her nails polished, yeah**  
-엉덩이를 빼고, 그녀는 그녀의 손톱을 광택 유지하는 것을 좋아해, 예
+엉덩이를 빼고, 그녀는 자신의 손톱을 광택 유지하는 것을 좋아해, 예
 
-**Fat boy, eat it like a snack, ayy**
+**Fat boy, eat it like a snack, ayy**  
 소년아, 간식처럼 먹어, ayy  
 `Fat은 멋지다고 하거나 그냥 앞에 붙이는 말 정도로 볼 수 있다`
 
 **Sorry if I miss you, I'ma hit you right back**  
 미안해. 네가 그리워. 나는 곧바로 너를 때렸어
 
-**I've been hella moody**
+**I've been hella moody**  
 나는 변덕스러워
 
 **Can't wait to call that toolie**  
@@ -154,15 +154,15 @@ Bass가 영광이 되려면
 인마 가자, ooh
 
 **Scare his ass like Scooby-Doo**  
-겁에 질린 Scooby-Dooc처럼
+겁에 질린 Scooby-Dooc처럼  
 `Scooby-Doo는 수많은 애니메이션 TV 시리즈, 영화에 나오는 캐릭터이다. Scooby-Doo는 쉽게 두려워하는 것으로 알려져 있다.`
 
 **You look like Scary Movie 2**  
 너는 Scary Movie 2처럼 보여  
-`Scary Movie 2는 Shawn과 Marlon Wayans가 출연 한 2001 년 미국의 공포 코미디 영화이다.`
+`Scary Movie 2는 Shawn과 Marlon Wayans가 출연 한 2001년 미국의 공포 코미디 영화이다.`
 
 **That makeup don't help you improve**  
-그 화장을 너를 높여주는데 도움이 되지 않아
+그 화장을 너를 높여주는 데 도움이 되지 않아  
 `플라이보이(Flyboy)는 이 여성의 화장이 그녀의 모습을 더 좋게, 어쩌면 무섭게 보인다고 말한다. `
 
 **White girl looking like a goddamn moon**  
@@ -212,7 +212,7 @@ Bass가 영광이 되려면
 불일치가 없어, 너를 믿게 만들지
 
 **I don't wanna see, you just wanna be, just like me**  
-나는 보고 싶지 않아, 너는 나처럼되고 싶어.
+나는 보고 싶지 않아, 너는 나처럼 되고 싶어.
 
 **White girl with me like Katy Perry (Gling, gling)**  
 백인 여자는 나랑 Katy Perry처럼 (Gling, gling)  
@@ -230,39 +230,39 @@ Bass가 영광이 되려면
 `해리포터의 해리`
 
 **Huh, we just tryin' to be the trending topic**  
-허, 우리는 단지 trending topic가되고 싶어
+허, 우리는 단지 trending topic이 되고 싶어
 
 **All of that hate, but you cannot stop me**  
-그 모든게 싫지만 날 막을 수는 없어
+그 모든 게 싫지만 날 막을 수는 없어
 
 **We do not know that we all are poppin'**  
-우리는 모두 우리가 멋진것을 몰라  
-`poppin이 멋진것을 의미한다고 한다.`
+우리는 모두 우리가 멋진 것을 몰라  
+`poppin이 멋진 것을 의미한다고 한다.`
 
 **Sit down and watch while we watch you whine (Watch you whine)**  
-우리는 너가 우는 것을 앉아서 보고 있어 (우는 소리 조심해)
+우리는 네가 우는 것을 앉아서 보고 있어 (우는 소리 조심해)
 
 **All that talk, but you won't do a damn thing (Damn thing)**  
-그 모든 이야기, 하지만 너는 하지 않을 것이야 (빌어 먹을 일)
+그 모든 이야기, 하지만 너는 하지 않을 것이야 (빌어먹을 일)
 
 **We gon' slide up in that, leave a red stain (Yeah, man)**  
 우리는 그걸 위로 밀어 넣으며, 빨간 얼룩을 남겨둬 (Yeah, man)
 
 #### [Verse 4: Kin$oul]
 **I go 4 for $4 like Wendy (What?)**  
-나는 4 달러를 웬디처럼 4 달러 줘. (뭐?)  
+나는 4달러를 웬디처럼 4 달러 줘. (뭐?)  
 
-> 노래 제목을 유지하면서 Kin$oul은 Wendy's를 참고한다. 2018년 1월, 고객이 8 개의 앙트레 중 하나를 선택하고 치킨 너겟, 작은 프라이 및 4 달러만으로 마실 수 있는 4 달러 메뉴에 대해 4 개의 메뉴를 확장한다고 발표했다. 이렇게 그들의 메뉴에 통합하는 것은 Wendy's에게 대단히 성공적이었다. [관련 기사](https://www.businessinsider.com/wendys-debuts-4-for-4-value-menu-2018-1) 그리고 [관련된 노래](https://genius.com/At-wendys-4-for-4-lyrics)도 있다고 한다. 
+`노래 제목을 유지하면서 Kin$oul은 Wendy's를 참고한다. 2018년 1월, 고객이 8개의 앙트레 중 하나를 선택하고 치킨 너겟, 작은 프라이 및 4달러만으로 마실 수 있는 4달러 메뉴에 대해 4개의 메뉴를 확장한다고 발표했다. 이렇게 그들의 메뉴에 통합하는 것은 Wendy's에게 대단히 성공적이었다. [관련 기사](https://www.businessinsider.com/wendys-debuts-4-for-4-value-menu-2018-1) 그리고 [관련된 노래](https://genius.com/At-wendys-4-for-4-lyrics)도 있다고 한다. `
 
 **White girl off the Henny (Yeah)**  
 Henny의 백인 소녀. (Yeah)
 
 **All blue hunnids, I got plenty (What?)**  
-모든 파란색의 100 달러, 나는 충분히있어 (뭐?)  
-`2013년 부터, 달러의 전통적인 녹색과는 반대로, 100 달러 지폐는 청색으로 인쇄되었다. + hunnids은 100%다 이런 의미를 지닌다고 한다.`
+모든 파란색의 100달러, 나는 충분히 있어 (뭐?)  
+`2013년부터, 달러의 전통적인 녹색과는 반대로, 100달러 지폐는 청색으로 인쇄되었다. + hunnids은 100%다 이런 의미를 지닌다고 한다.`
 
 **Bitch don't think you're here to pay me (Oh no)**  
-개자식아 네가 나한테 돈을 주고 여기 있다고 생각 하지마라. (오, 안돼)
+개자식아 네가 나한테 돈을 주고 여기 있다고 생각 하지 마라. (오, 안돼)
 
 **Spank him off and send him home**  
 그를 패서 집에 데려다 줘
@@ -272,16 +272,16 @@ Henny의 백인 소녀. (Yeah)
 
 **My drip, my drip that not VLONE**  
 내 물방울, 내 물방울은 VLONE이 아니야.  
-`drip은 물방울이 떨어지는 거 처럼 멋진 모습을 자랑하는 의미라고 한다. 그리고 VLONE은 나이키 같은 패션과 스트릿웨어를 판매하는 곳이다.`
+`drip은 물방울이 떨어지는 거처럼 멋진 모습을 자랑하는 의미라고 한다. 그리고 VLONE은 나이키 같은 패션과 스트릿웨어를 판매하는 곳이다.`
 
 **I bossed up, feel like Al Capone**  
 나는 보스, Al Capone처럼 느껴  
-`Al Capone는 마피아 인물들 중 타임지 표지도 장식한 몇 안되는 거물이자 마피아의 대명사이다.`
+`Al Capone는 마피아 인물 중 타임지 표지도 장식한 몇 안 되는 거물이자 마피아의 대명사이다.`
 
 #### [Verse 5: Flyboy Tarantino]
 **White girl on me like Katy**  
 백인 여자는 나랑 [Katy](https://www.katyperry.com/)처럼  
-`Katy팝 싱어이다.`
+`Katy는 팝 싱어이다.`
 
 **Wanna have a baby?**  
 아기를 갖고 싶니?
