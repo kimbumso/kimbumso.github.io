@@ -60,8 +60,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://marktext.github.io/website">
-      WEB
+    <a href="https://newhiwoong.github.io/">
+      HOME
     </a>
     <span> | </span>
     <a href="https://newhiwoong.github.io/featured/">
@@ -69,11 +69,7 @@
     </a>
     <span> | </span>
     <a href="https://newhiwoong.github.io/tags/">
-      Downloads
-    </a>
-    <span> | </span>
-    <a href="https://newhiwoong.github.io/tags/">
-      TAGs
+      TAGS
     </a>
     <span> | </span>
     <a href="https://newhiwoong.github.io/categories/">

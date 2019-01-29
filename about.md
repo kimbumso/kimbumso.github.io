@@ -39,78 +39,71 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 </figure>
 
 
-## EXPERIENCE
+## [EXPERIENCE]()
 ### 국민청원 분석으로 국민의 생각 알아보기  - *Team project*
-2018.12.26 -
-- 국민소통광장의 ‘국민청원 및 제안’ 데이터를 크롤링하여 국민의 생각을 데이터 기반으로 분석 (워드클라우드, 네트워크 제작, 각종 데이터 분석, 데이터를 기반으로 Top 키워드 이슈 요약, 보고서 제작, 청원 글 벡터화, 문재인 대통령 지지율 찾기 등)
-- https://github.com/newhiwoong/National-Petition 
+<sub>2018.12.26 -, [Github](https://github.com/newhiwoong/National-Petition), [Report](https://bit.ly/2WevBAu)</sub>
+- 국민소통광장의 ‘국민청원 및 제안’ 데이터를 크롤링하여 국민의 생각을 데이터 기반으로 분석 
+- (워드클라우드, 네트워크 제작, 각종 데이터 분석, 데이터를 기반으로 Top 키워드 이슈 요약, 보고서 제작, 청원 글 벡터화, 문재인 대통령 지지율 찾기 등)
 
 ### 서울에서 갈만한 장소 추천 사이트 제작 - *Team project*
-2018.10.07 - 12.20
-- 서울의 장소, 현재 날씨와 위치 데이터를 가지고 ‘어디를 갈까?’에 대해 고민하는 사람들을 대상으로 서울 내의 갈만한 장소를 추천(기상청 API 받기, 추천 알고리즘 제작, 웹 개발, 업무 지도 등 모든 부분 총괄)
-- https://github.com/newhiwoong/Sejong_ITIP- 
-- https://bit.ly/2S8pMFr 
+<sub>2018.10.07 - 12.20, [Github](https://github.com/newhiwoong/Sejong_ITIP-), [Report](https://bit.ly/2S8pMFr)</sub>
+- 서울의 장소, 현재 날씨와 위치 데이터를 가지고 ‘어디를 갈까?’에 대해 고민하는 사람들을 대상으로 서울 내의 갈만한 장소를 추천
+- (기상청 API 받기, 추천 알고리즘 제작, 웹 개발, 업무 지도 등 모든 부분 총괄)
 
 ### 다용도 Word Cloud - *Personal Project*
-2018.12
+<sub>2018.12, [Github](https://github.com/newhiwoong/Multipurpose_Word_Cloud)</sub>
 - 자기소개서, 좋아하는 가수의 가사들, 카카오톡 대화 등을 자신이 원하는 형태의 모습으로 Word Cloud 제작
-- https://github.com/newhiwoong/Multipurpose_Word_Cloud 
 
 ### 유전 알고리즘을 이용한 공항 철도 속도 최적화, *G-TSC - Team project*
-2017.08.24 - 09.02
+<sub>2017.08.24 - 09.02, [Github](https://github.com/newhiwoong/GeneticAlgorithm-TSC)</sub>
 - 유전 알고리즘으로 속도를 조절해 열차가 환승 시간에 맞게 도착하게 하는 
 - 시뮬레이션 진행 (유전 알고리즘 부분)
 - (1800 세대 후 성능이 약 4배 상승)
-- https://github.com/newhiwoong/GeneticAlgorithm-TSC 
 
 ### 타자 연구 프로그램 제작, *STAR - Personal Project*
-2017.05.18 - 06.02
+<sub>2017.05.18 - 06.02, [Github](https://github.com/newhiwoong/STAR)</sub>
 - 타자의 속도와 타이핑 대상을 분석해 부족한 부분을 집중해서 연습하게 하는 프로그램
-- https://github.com/newhiwoong/STAR 
 
 ### 머신러닝 분야 독학  - *Study*
-2017.04 - 
+<sub>2017.04 -</sub>
 - 기초 통계, 신경망, 데이터 분석, 선형대수학 독학
 - 오일석의 '패턴인식', 마이클 네그네빗스키의 ‘인공지능 개론’ 독학
 
 ### (유)아키텍트그룹 근무  - *Company, Solutions Engineer*
-2016.08.22 - 2017.02.17
+<sub>2016.08.22 - 2017.02.17</sub>
 - Si 업체 기술 팀 근무(이슈 해결, 유지 보수, 각종 관리, 스크립트 제작, 교육 등)
 - LG 팀 마이그레이션 작업, Seafile 제품 총괄, 외국인 CEO 가이드, 제품 docs 제작 등
 
 ### 환율 계산기 제작, CRP  - *Personal Project*
-2016.05.13 - 15
+<sub>2016.05.13 - 15, [Github](https://github.com/newhiwoong/CRP)</sub>
 - API를 이용한 환율 환산 및 메모 기능을 추가한 계산기 제작
-- https://github.com/newhiwoong/CRP 
 
 ### 버스 냉 난 방 조절 시스템 구현 및 민원 신청  - *Team Project*
-2016.01.05 - 03.25
+<sub>2016.01.05 - 03.25</sub>
 - 센서로 객관적인 데이터를 얻어 온도를 조절하는 모의 환경을 구축                 
 - 서울시 응답소에 민원 신청 (기획, 디자인, 라즈베리파이)
 
 ### OS 제작 스터디, MINT64OS  - *Study ,Personal Project*
-2015.12.30 - 2016.02.28                  
+<sub>2015.12.30 - 2016.02.28, [Github](https://github.com/newhiwoong/MINT64OS)</sub>                
 - OS 개발 환경 구축 및 각종 운영 모드, 레지스터 등을 학습 후 부드로드 제작 및 
 - 보호 모드 전환까지 진행
-- https://github.com/newhiwoong/MINT64OS                  
 
 ### 나쁜녀석들 팬 페이지 제작  - *Team Project*
-2014.11
+<sub>2014.11, [Github](https://github.com/newhiwoong/bad-guys)</sub>
 - 동아리 부원들과 좋아하는 드라마의 팬페이지 제작 
 - (프론트엔드 부분, DB 연동)
-- https://github.com/newhiwoong/bad-guys 
 
-## EDUCATION
+## [EDUCATION]()
 ### 세종대학교 - *데이터사이언스학과*
-2018.03.01 -  
+<sub>2018.03.01 -</sub>  
 학부 1학년 때 4학년 수업 지능형 시스템과 대학원 수업 기계학습특론에서 우수한 성적을 받으며 인공지능 분야 학습 또한 현재 학부 연구생으로 다양한 프로젝트를 진행 중
 
 ### 서울대학교 빅데이터 아카데미 - *Big Data Engineer 과정*
-2017.08.21 - 2017.09.15  
+<sub>2017.08.21 - 2017.09.15</sub>  
 서울대 교수님들에게 데이터 분산 처리 시스템인 Hadoop / Spark부터 기계 학습, 텍스트 분석, 딥러닝, 웹 애널리틱스 이론을 배운 후 실습 및 프로젝트 진행 후 수강생 대표로 선정됨
 
 ### 한세사이버보안고등학교 - *해킹보안과*
-2014.03.01 - 2017.02.10  
+<sub>2014.03.01 - 2017.02.10</sub>  
 프로그래밍, 컴퓨터 구조, 알고리즘, 네트워크, 정보보안 등의 과목을 이수 및 네트워크 보안 동아리 활동 수행. 정보처리기능사, 리눅스마스터, 네트워크관리사 등 기본적인 자격증 취득
 
 
