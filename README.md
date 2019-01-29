@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://newhiwoong.github.io/">
-    <img src="images/main_word.JPG">
+    <img src="images/main.png">
   </a>
 </p>
 
@@ -60,9 +60,36 @@
 
 </p>
 
-[Blog](https://newhiwoong.github.io/)에 들어가서 각종 정보들과 [categories](https://newhiwoong.github.io/categories/), [tags](https://newhiwoong.github.io/tags/), [about](https://newhiwoong.github.io/about/) 등을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 
+<div align="center">
+  <h3>
+    <a href="https://marktext.github.io/website">
+      WEB
+    </a>
+    <span> | </span>
+    <a href="https://newhiwoong.github.io/featured/">
+      FEATURED POSTS
+    </a>
+    <span> | </span>
+    <a href="https://newhiwoong.github.io/tags/">
+      Downloads
+    </a>
+    <span> | </span>
+    <a href="https://newhiwoong.github.io/tags/">
+      TAGs
+    </a>
+    <span> | </span>
+    <a href="https://newhiwoong.github.io/categories/">
+      CATEGORYS
+    </a>
+    <span> | </span>
+    <a href="https://newhiwoong.github.io/about/">
+      ABOUT
+    </a>
+  </h3>
+</div>
 
-✨✨ 그리고 [Star](https://github.com/newhiwoong/newhiwoong.github.io/stargazers) 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
+
+[Blog](https://newhiwoong.github.io/)에 들어가서 각종 정보들을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 그리고 ✨✨ [Star](https://github.com/newhiwoong/newhiwoong.github.io/stargazers) 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
 
 ## 📖 Github Blog Start
 
