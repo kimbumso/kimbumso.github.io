@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://newhiwoong.github.io/">
-    <img src="images/main.png">
+    <img src="images/main_logo.png">
   </a>
 </p>
 
@@ -32,8 +32,8 @@
   </em>
   <br />
   <em>
-    <a href="https://newhiwoong.github.io/categories/">
-      Goto blog categories!
+    <a href="https://newhiwoong.github.io">
+      Goto KIWOONG'S BLOG!
     </a>
   </em>
 </p>
@@ -47,17 +47,8 @@
     <img alt="licenses" src="https://img.shields.io/badge/licenses-MIT-red.svg"></a>
   <a href="https://newhiwoong.github.io">
     <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
-  <br/>
   <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg?style=popout-square&logo=appveyor"></a>
-</p>
-
-## 👑 Intro
-
-<p align="center">
-
-![](images/main.gif) 
-
+    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg"></a>
 </p>
 
 <div align="center">
@@ -88,8 +79,13 @@
   </h3>
 </div>
 
+<p align="center">
 
-[Blog](https://newhiwoong.github.io/)에 들어가서 각종 정보들을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 그리고 ✨✨ [Star](https://github.com/newhiwoong/newhiwoong.github.io/stargazers) 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
+![](images/main.gif) 
+
+</p>
+
+KIWOONG'S BLOG에 들어가서 각종 정보들을 구경하고 자신의 블로그를 어떻게 꾸밀지 생각해보자. 그리고 ✨✨ Star 하나를 주시면 감사하겠습니다. 🙇‍♂️🙇‍♀️
 
 ## 📖 Github Blog Start
 
