@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: [Kiwoong Yeom]()
+title: Kiwoong Yeom
 tags: [Kiwoong, Yeom, Newhiwoong]
 imagefeature: fourseasons.jpg
 chart: true
