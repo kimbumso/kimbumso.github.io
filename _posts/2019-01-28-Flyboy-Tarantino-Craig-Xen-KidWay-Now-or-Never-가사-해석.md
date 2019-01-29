@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flyboy Tarantino, Craig Xen, KidWay Now or Never 가사 해석"
+title: "Flyboy Tarantino, Craig Xen & KidWay – Now or Never 가사 해석"
 description: 
 headline: 
 modified: 2019-01-28
