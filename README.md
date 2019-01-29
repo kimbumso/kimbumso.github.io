@@ -87,7 +87,7 @@
 </div>
 
 <div align="center">
-    <sub> 자신의 <a href="https://github.com/newhiwoong/newhiwoong.github.io/network/members">BLOG</a>를 어떻게 꾸밀지 생각해보자.🙇‍♂️🙇‍♀️ <a href="https://github.com/newhiwoong/newhiwoong.github.io/stargazers">Stargazers</a>  </sub>
+    <sub> 자신의 <a href="https://github.com/newhiwoong/newhiwoong.github.io/network/members">BLOG</a>를 어떻게 꾸밀지 생각해보자.🙇‍♂️🙇‍♀️ by <a href="https://github.com/hmfaysal/Notepad">Notepad</a> and <a href="https://github.com/newhiwoong/newhiwoong.github.io/stargazers">Stargazers</a>  </sub>
 </div>
 
 ## 📖 Github Blog Start
