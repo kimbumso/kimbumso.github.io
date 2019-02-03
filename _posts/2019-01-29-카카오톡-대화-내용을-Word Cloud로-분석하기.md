@@ -54,7 +54,7 @@ comments: true
 
 자신이 원하는 방식의 `Word Cloud` 제작을 위해서 아래 코드 설명을 참고하자.
 
-{% highlight yaml %}
+```
 def make_cloud(tmp_data, back_image_n,state="no", font_n = "UnDinaru.ttf",background_color_n='white', max_font_size_n = 40):
 back_image_n = "image 폴더에 있는 사진 중 Word Cloud의 모습이 되길 바라는 사진"
 state = "Word Cloud의 표현되는 색"
@@ -65,7 +65,7 @@ state = "Word Cloud의 표현되는 색"
 font_n = "Word Cloud에 적용할 폰트 이름"
 background_color_n = "배경으로 바라는 색"
 max_font_size_n = "Word Cloud에 표시할 글씨의 최대 크기"
-{% endhighlight %}
+```
 
 ## Word Cloud 예시
 
