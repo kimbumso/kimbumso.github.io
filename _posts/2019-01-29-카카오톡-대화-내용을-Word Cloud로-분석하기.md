@@ -54,7 +54,7 @@ comments: true
 
 자신이 원하는 방식의 `Word Cloud` 제작을 위해서 아래 코드 설명을 참고하자.
 
-```
+```python
 def make_cloud(tmp_data, back_image_n,state="no", font_n = "UnDinaru.ttf",background_color_n='white', max_font_size_n = 40):
 back_image_n = "image 폴더에 있는 사진 중 Word Cloud의 모습이 되길 바라는 사진"
 state = "Word Cloud의 표현되는 색"
