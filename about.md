@@ -32,7 +32,7 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 -->
 
 <h1 align="center">
-<a href="https://docs.google.com/document/d/1lRESRzV_olx7BITCPQnLir8VPbQHg_QS7mgRJBzF8EY/edit?usp=sharing"> CV_Kiwoong_Yeom_Public </a>  
+<a href="https://docs.google.com/document/d/1fSqkSkzscH-ebEIZHNliku1goUXQvDx8LAXZ2sEC14w/edit?usp=sharing"> Kiwoong_Resume </a>  
 </h1>
 
 <figure>
@@ -99,23 +99,22 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 
 ### 버스 냉 난 방 조절 시스템 구현 및 민원 신청  - *Team Project*
 <sub>2016.01.05 - 03.25</sub>
-- 센서로 객관적인 데이터를 얻어 온도를 조절하는 모의 환경을 구축                 
+- 센서로 데이터를 얻어 온도를 조절하는 모의 환경을 구축                 
 - 서울시 응답소에 민원 신청 (기획, 디자인, 라즈베리파이)
 
 ### OS 제작 스터디, MINT64OS  - *Study ,Personal Project*
 <sub>2015.12.30 - 2016.02.28, [Github](https://github.com/newhiwoong/MINT64OS)</sub>                
-- OS 개발 환경 구축 및 각종 운영 모드, 레지스터 등을 학습 후 부드로드 제작 및 
-- 보호 모드 전환까지 진행
+- OS 개발 환경 구축 및 각종 운영 모드, 레지스터 등을 학습 후 부드로드 제작 및 보호 모드 전환까지 진행
 
 ### 나쁜녀석들 팬 페이지 제작  - *Team Project*
 <sub>2014.11, [Github](https://github.com/newhiwoong/bad-guys)</sub>
-- 동아리 부원들과 좋아하는 드라마의 팬페이지 제작 
-- (프론트엔드 부분, DB 연동)
+- 동아리 부원들과 좋아하는 드라마의 팬페이지 제작 (프론트엔드 부분, DB 연동)
+
 
 ## [EDUCATION]()
 ### 세종대학교 - *데이터사이언스학과*
 <sub>2018.03.01 -</sub>  
-학부 1학년 때 4학년 수업 지능형 시스템과 대학원 수업 기계학습특론에서 우수한 성적을 받으며 인공지능 분야 학습 또한 현재 학부 연구생으로 다양한 프로젝트를 진행 중
+학부 1학년 때 4학년 수업 지능형 시스템과 대학원 수업 기계학습특론에서 우수한 성적을 받으며 인공지능 분야 학습 진행 그리고 현재 학부 연구생으로 다양한 프로젝트를 진행 중
 
 ### 서울대학교 빅데이터 아카데미 - *Big Data Engineer 과정*
 <sub>2017.08.21 - 2017.09.15</sub>  
