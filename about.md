@@ -47,23 +47,31 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 ## [EXPERIENCE]()
 ### 국민청원 분석으로 국민의 생각 알아보기  - *Team project*
 <sub>2018.12.26 -, [Github](https://github.com/newhiwoong/National-Petition), [Report](https://bit.ly/2WevBAu)</sub>
-- 국민소통광장의 ‘국민청원 및 제안’ 데이터를 크롤링하여 국민의 생각을 데이터 기반으로 분석 
-- (워드클라우드, 네트워크 제작, 각종 데이터 분석, 데이터를 기반으로 Top 키워드 이슈 요약, 보고서 제작, 청원 글 벡터화, 문재인 대통령 지지율 찾기 등)
+- 국민소통광장의 ‘국민청원 및 제안’ 데이터를 크롤링하여 371,229개의 청원을 기반으로 국민의 생각을 알아보는 프로젝트로  비교적 쉽게 국민들이 생각하는 문제들을 알 수 있는 보고서 작성
+- 비슷한 청원글들을 Topic으로 모아서 분석하는 작업, 국민청원과 문재인 대통령의 지지율간의 상관관계 분석 등을 진행중 
 
 ### 서울에서 갈만한 장소 추천 사이트 제작 - *Team project*
 <sub>2018.10.07 - 12.20, [Github](https://github.com/newhiwoong/Sejong_ITIP-), [Report](https://bit.ly/2S8pMFr)</sub>
-- 서울의 장소, 현재 날씨와 위치 데이터를 가지고 ‘어디를 갈까?’에 대해 고민하는 사람들을 대상으로 서울 내의 갈만한 장소를 추천
-- (기상청 API 받기, 추천 알고리즘 제작, 웹 개발, 업무 지도 등 모든 부분 총괄)
+- ‘어디를 갈까?’에 대해 고민하는 사람들을 위해 기상 사항과 사용자가 바라는 장소로 필터링을 한 후 최대한 가까운 ‘서울 내의 갈만한 장소’를 추천
+- 기상청 API 받기, 추천 알고리즘 제작, 웹 개발, 업무 지도 등 모든 부분 총괄
 
 ### 다용도 Word Cloud - *Personal Project*
-<sub>2018.12, [Github](https://github.com/newhiwoong/Multipurpose_Word_Cloud)</sub>
-- 자기소개서, 좋아하는 가수의 가사들, 카카오톡 대화 등을 자신이 원하는 형태의 모습으로 Word Cloud 제작
+<sub>2018.12, [Github](https://github.com/newhiwoong/Multipurpose_Word_Cloud) [Image](https://newhiwoong.github.io/images/kywc.png), [Post](https://newhiwoong.github.io/nlp/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%8C%80%ED%99%94-%EB%82%B4%EC%9A%A9%EC%9D%84-Word-Cloud%EB%A1%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)</sub>
+- 자기소개서, 카카오톡 대화 등 한글로 된 글을 konlpy로 키워드 추출 후 자신이 원하는 형태의 모습으로 Word Cloud 제작
+
+### 세종대 창취업 사이트 개발 - *Hackathon, Team project*
+<sub>2018.06.26 - 27</sub>
+- 취업을 바라는 학생의 이력서, 회사의 채용공고, 투자를 받고 싶은 자신의 창업 아이템 올려 이를 검색 및 추천할 수 있는 사이트 제작하여 해커톤 은상 수상
+- 크라우드펀딩 사이트 Code를 우리의 사이트 폼으로 바꾸는 작업, 이력서를 konlpy를 이용하여 간단히 요약하는 작업, 사용자 추천 내용을 DB에 저장하는 작업 수행
+
+### 정치인 호감도 분석 - *Team project*
+<sub>2017.09.11 - 12, [Github](https://github.com/newhiwoong/Reputation_analysis)</sub>
+- 트위터 긍부정 단어로 크롤링한 정치인 뉴스 기사의 긍부정 빈도로 정치인의 호감도 분석 
 
 ### 유전 알고리즘을 이용한 공항 철도 속도 최적화, *G-TSC - Team project*
 <sub>2017.08.24 - 09.02, [Github](https://github.com/newhiwoong/GeneticAlgorithm-TSC)</sub>
-- 유전 알고리즘으로 속도를 조절해 열차가 환승 시간에 맞게 도착하게 하는 
-- 시뮬레이션 진행 (유전 알고리즘 부분)
-- (1800 세대 후 성능이 약 4배 상승)
+- 유전 알고리즘으로 속도를 조절해 열차가 환승 시간에 맞게 도착하게 하는 시뮬레이션 진행 
+- 유전 알고리즘 부분 진행(1800 세대 후 성능이 약 4배 상승)
 
 ### 타자 연구 프로그램 제작, *STAR - Personal Project*
 <sub>2017.05.18 - 06.02, [Github](https://github.com/newhiwoong/STAR)</sub>
@@ -72,12 +80,18 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 ### 머신러닝 분야 독학  - *Study*
 <sub>2017.04 -</sub>
 - 기초 통계, 신경망, 데이터 분석, 선형대수학 독학
-- 오일석의 '패턴인식', 마이클 네그네빗스키의 ‘인공지능 개론’ 독학
+- 오일석의 '[패턴인식](http://www.yes24.com/24/goods/3315437?scode=032&OzSrank=1)', 마이클 네그네빗스키의 ‘[인공지능 개론](http://www.yes24.com/24/Goods/9386454?Acode=101)’ 독학
+- 모두의 연구소 풀잎스쿨 [강화학습기초](https://event-us.kr/modu/event/2016) 스터디
+- [Coursera - Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) 강의 수료
+- 모두의 연구소 풀잎스쿨 [Deep Generative](https://event-us.kr/modu/event/4648), [슬로우페이퍼 2기](https://event-us.kr/modu/event/4665) 스터디 
+- [PyTorch](https://github.com/newhiwoong/PyTorch), [Keras](https://github.com/newhiwoong/Keras-Applications) 등 각종 Deep Learning 관련 라이브러리 학습
+
 
 ### (유)아키텍트그룹 근무  - *Company, Solutions Engineer*
 <sub>2016.08.22 - 2017.02.17</sub>
-- Si 업체 기술 팀 근무(이슈 해결, 유지 보수, 각종 관리, 스크립트 제작, 교육 등)
-- LG 팀 마이그레이션 작업, Seafile 제품 총괄, 외국인 CEO 가이드, 제품 docs 제작 등
+- Si 업체 기술 팀 근무해 각종 제품의 이슈 해결, 문서 및 스크립트 제작, 회사 홈페이지의 상단의 각종 제품 소개 Page 제작 작업 등 업무 진행
+- LG 팀에서 기존에 사용하던 IBM ALM Tool의 모든 내용을 codeBeamer로 마이그레이션 작업 진행. 기존 item들을 codeBeamer의 format으로 바꾸는 Excel 스크립트 제작으로 기존보다 2배이상의 빠른 업무 진행이 가능해짐 
+- Seafile 제품 총괄로 삼성 및 다양한 기업의 이슈 해결
 
 ### 환율 계산기 제작, CRP  - *Personal Project*
 <sub>2016.05.13 - 15, [Github](https://github.com/newhiwoong/CRP)</sub>
@@ -105,7 +119,7 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 
 ### 서울대학교 빅데이터 아카데미 - *Big Data Engineer 과정*
 <sub>2017.08.21 - 2017.09.15</sub>  
-서울대 교수님들에게 데이터 분산 처리 시스템인 Hadoop / Spark부터 기계 학습, 텍스트 분석, 딥러닝, 웹 애널리틱스 이론을 배운 후 실습 및 프로젝트 진행 후 수강생 대표로 선정됨
+서울대 교수님들에게 Hadoop / Spark, 추천시스템, 기계 학습, 텍스트 분석, 고급Python, 딥러닝, 웹 애널리틱스 이론을 배운 후 실습 및 프로젝트 진행 후 수강생 대표로 선정됨
 
 ### 한세사이버보안고등학교 - *해킹보안과*
 <sub>2014.03.01 - 2017.02.10</sub>  
