@@ -13,7 +13,9 @@ share: true
 comments: true
 ---
 
-Keras로 간단한 CNN을 구현하여 MNIST를 진행하면 99% 이상의 성능을 발휘한다. 그럼 1% 미만이 틀린 MNIST는 어떤 그림일지 궁금했고 한 번 알아보려고 한다.
+Keras로 간단한 [CNN을 구현](https://github.com/newhiwoong/Keras-Applications/blob/master/01_CNN_MNIST.ipynb)하여 MNIST를 진행하면 99% 이상의 성능을 발휘한다. 그럼 1% 미만이 틀린 MNIST는 어떤 그림일지 궁금했고 한 번 알아보려고 한다.
+
+[나의 Github](https://github.com/newhiwoong)에 [Keras-Applications](https://github.com/newhiwoong/Keras-Applications)에서 [전체 코드](https://github.com/newhiwoong/Keras-Applications/blob/master/01_CNN_MNIST.ipynb)를 볼 수 있다.
 
 ## Keras CNN MNIST 
 
