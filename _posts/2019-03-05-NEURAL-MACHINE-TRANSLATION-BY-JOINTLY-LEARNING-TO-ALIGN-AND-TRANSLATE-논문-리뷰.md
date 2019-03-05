@@ -5,6 +5,7 @@ description:
 headline: 
 modified: 2019-03-05
 category: 논문 리뷰
+imagefeature: cover3.jpg
 tags: [논문 리뷰, attention, neural machine translation]
 mathjax: 
 chart: 
