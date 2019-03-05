@@ -4,7 +4,7 @@ title: "Keras CNN MNIST 틀린 그림 찾기"
 description: 
 headline: 
 modified: 2019-02-10
-category: NLP
+category: Keras
 tags: [Keras, CNN, MNIST, 대화 내용 분석]
 imagefeature: 
 mathjax: 
