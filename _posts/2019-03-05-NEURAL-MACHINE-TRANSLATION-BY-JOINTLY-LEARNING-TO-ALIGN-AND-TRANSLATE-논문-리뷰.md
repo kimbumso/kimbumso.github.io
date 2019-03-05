@@ -13,13 +13,12 @@ share: true
 comments: true
 ---
 
-attention 기법을 처음 적용하여 긴 문자에서도 NMT(Neural machine translation)에서 성능향상을 시킨 [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)을 리뷰를 해보겠다. 
-
-[한국어 리뷰](https://reniew.github.io/37/), [한국어 리뷰 유튜브](https://www.youtube.com/watch?v=upskBSbA9cA&feature=youtu.be) 그리고 [논문](https://arxiv.org/pdf/1409.0473.pdf)를 참고하자.
+attention 기법을 처음 적용하여 긴 문장의 NMT(Neural machine translation)에서 성능을 향상시킨 [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)을 리뷰를 해보겠다. 
 
 ![]({{ site.url }}/images/NEURAL_MACHINE_TRANSLATION_BY_JOINTLY_LEARNING_TO_ALIGN_AND_TRANSLATE1.JPG)  
 `RNNsearch`가 해당 모델이고, `RNNenc`가 이전 모델로 큰 성능향상을 하였다.
 
+[한국어 리뷰](https://reniew.github.io/37/), [한국어 리뷰 유튜브](https://www.youtube.com/watch?v=upskBSbA9cA&feature=youtu.be) 그리고 [논문](https://arxiv.org/pdf/1409.0473.pdf)를 참고하자.
 
 ## ABSTRACT, Introduction 요약
 
