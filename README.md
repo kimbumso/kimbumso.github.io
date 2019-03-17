@@ -22,7 +22,7 @@
   <br />
   <em>
     Paper
-    · Lecture
+    · eview
   </em>
   <br />
   <em>
