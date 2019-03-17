@@ -22,7 +22,7 @@
   <br />
   <em>
     Paper
-    · eview
+    · Review
   </em>
   <br />
   <em>
