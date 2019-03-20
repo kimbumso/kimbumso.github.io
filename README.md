@@ -22,7 +22,7 @@
   <br />
   <em>
     Paper
-    · Lecture
+    · Review
   </em>
   <br />
   <em>
@@ -48,7 +48,7 @@
   <a href="https://newhiwoong.github.io">
     <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
   <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Notepad-Github%20%20-lightgrey.svg"></a>
+    <img alt="Notepad" src="https://img.shields.io/badge/Github-Notepad-lightgrey.svg"></a>
 </p>
 
 
