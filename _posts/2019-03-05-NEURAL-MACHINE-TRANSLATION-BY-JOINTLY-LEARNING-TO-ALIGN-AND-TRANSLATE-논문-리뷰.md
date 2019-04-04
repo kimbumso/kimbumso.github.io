@@ -30,8 +30,8 @@ attention 기법을 처음 적용하여 긴 문장의 NMT(Neural machine transla
 이 문제를 해결하기 위해 모델이 자동으로 `Soft-alignments` 이하 `attention`작업을 진행한다.
 
 ### Soft-alignment(attention) VS Hard-alignment
-- `Soft-alignment(attention)` : 영어 -> 한글 번역으로 예를 들자면 'I'가 '나'라는 정보를 컴퓨터 스스로 학습하는 것이다.
-- `Hard-alignment` : 예를 들면 위에 'I'가 '나'라는 정보를 사람이 직접 입력하는 것이다.
+- `Hard-alignment` : 정보를 1 : 1로 매핑하여 해석한다. 예를 들면 한국어와 영어가 어순이 다른데 이 다른 어순을 인식하지 못하고 그 순서를 그대로 가져가는 것.
+- `Soft-alignment(attention)` : 정보를 전부 확인하며, 어순이 다른 것 마자도 학습을 통해서 인식하는 것. 5 RESULTS에서 확인 가능.
 
 이 접근법의 가장 중요한 특징 중 하나는 전체 입력 문장을 하나의 `fixed-length vector`로 인코딩하려고 시도하지 않는다는 것이다. 대신에, 디코딩을 진행할 때마다 번역된 단어가 위와 같이 관련된 문장을 찾는다. 우리는 이 방법으로 모델이 긴 문장에 더 잘 대처할 수 있게 한다는 것을 보여준다.
 
