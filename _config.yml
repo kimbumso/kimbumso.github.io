@@ -1,9 +1,9 @@
-title:            Kiwoong's Blog
+title:            BSKim's Blog
 description:      "각종 정보 공유"
 logo:             logo.png
-disqus_shortname: newhiwoong
-disqus_url : newhiwoong@gamil.com
-disqus_id : newhiwoong
+disqus_shortname: kimbumso
+disqus_url : rlaqjath1@gamil.com
+disqus_id : rlaqjath
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -12,21 +12,21 @@ dropcap:			true
 
 remote_theme : hmfaysal/Notepad
 
-url                      : "https://newhiwoong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kimbumso.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Owner/author information
 owner:
-  name:           Kiwoong Yeom
+  name:           Bumso KIM
   avatar:         hmfaysal.jpg
-  email:          newhiwoong@gmail.com
+  email:          rlaqjath1@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    A person longing for any dream for a long time  resembles that dream at last .
   # Social networking links used in footer. Update and remove as you like.
-  #twitter:        hmfaysal
-  #facebook:       hmfaysal
-  github:         newhiwoong      
-  #instagram:      hmfaysal
+  #twitter:        -
+  #facebook:       -
+  github:         kimbumso      
+  #instagram:      -
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    https://plus.google.com/u/0/102602916593522619858
 
@@ -54,7 +54,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Asia/Seoul
 future:      true
 highlighter: pygments
 markdown:    kramdown
