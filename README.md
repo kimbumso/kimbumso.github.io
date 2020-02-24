@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://newhiwoong.github.io/">
+  <a href="https://kimbumso.github.io/">
     <img width=700 src="images/main_logo.png">
   </a>
 </p>
@@ -32,23 +32,10 @@
   </em>
   <br />
   <em>
-    <a href="https://newhiwoong.github.io/categories/">
+    <a href="https://kimbumso.github.io/categories/">
       GOTO CATEGORY!
     </a>
   </em>
-</p>
-
-
-
-<p align="center">
-  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io?ref=badge_shield">
-    <img alt="FOSSA Status" src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewhiwoong%2Fnewhiwoong.github.io.svg?type=shield"></a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="licenses" src="https://img.shields.io/badge/licenses-MIT-red.svg"></a>
-  <a href="https://newhiwoong.github.io">
-    <img alt="results" src="https://img.shields.io/badge/results-Web-blue.svg"></a>
-  <a href="https://github.com/hmfaysal/Notepad">
-    <img alt="Notepad" src="https://img.shields.io/badge/Github-Notepad-lightgrey.svg"></a>
 </p>
 
 
@@ -60,23 +47,23 @@
 
 <div align="center">
   <h3>
-    <a href="https://newhiwoong.github.io/">
+    <a href="https://kimbumso.github.io/">
       HOME
     </a>
     <span> | </span>
-    <a href="https://newhiwoong.github.io/featured/">
+    <a href="https://kimbumso.github.io/featured/">
       FEATURED POSTS
     </a>
     <span> | </span>
-    <a href="https://newhiwoong.github.io/tags/">
+    <a href="https://kimbumso.github.io/tags/">
       TAGS
     </a>
     <span> | </span>
-    <a href="https://newhiwoong.github.io/categories/">
+    <a href="https://kimbumso.github.io/categories/">
       CATEGORYS
     </a>
     <span> | </span>
-    <a href="https://newhiwoong.github.io/about/">
+    <a href="https://kimbumso.github.io/about/">
       ABOUT
     </a>
   </h3>
