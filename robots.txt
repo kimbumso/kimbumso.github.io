@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://newhiwoong.github.io/sitemap.xml
+Sitemap: https://kimbumso.github.io/sitemap.xml
