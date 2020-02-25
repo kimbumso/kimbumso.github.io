@@ -8,8 +8,8 @@ chart: true
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/kywc.png" alt="자기소개서 워드클라우드">
-	<figcaption>자기소개서 워드클라우드</figcaption>
+	<img src="{{ site.url }}/images/gguji.jpeg" alt="자기소개서 워드클라우드">
+	<figcaption>구찌뽕</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
