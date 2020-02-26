@@ -8,7 +8,7 @@ chart: true
 ---
 
 <figure>
-	<img src="{{ site.url }}/images/gguji.jpeg" alt="자기소개서 워드클라우드">
+	<img src="{{ site.url }}/images/gguji.jpeg" alt="구찌뽕">
 	<figcaption>구찌뽕</figcaption>
 </figure>
 
