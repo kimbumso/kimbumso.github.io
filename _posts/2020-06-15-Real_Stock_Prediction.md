@@ -100,11 +100,11 @@ x_train.shape, x_test.shape
 
 ~~~
 
-<img src="{{ site.url }}/images/investing/Stock_Prediction/Screenshot_2020-06-15-21-06-26.jpg">
+<img src="{{ site.url }}/images/investing/Stock_Prediction/Screenshot_2020-06-15-21-06-26.png">
 
-<img src="{{ site.url }}/images/investing/Stock_Prediction/Screenshot_2020-06-15-21-10-53.jpg">
+<img src="{{ site.url }}/images/investing/Stock_Prediction/Screenshot_2020-06-15-21-10-53.png">
 
-<img src="{{ site.url }}/images/investing/Stock_Prediction/Screenshot_2020-06-15-21-11-37.jpg">
+<img src="{{ site.url }}/images/investing/Stock_Prediction/Screenshot_2020-06-15-21-11-37.png">
 
 
 ## 모델 생성
