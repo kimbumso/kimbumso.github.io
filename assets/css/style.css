@@ -16,6 +16,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
 
+.container{
+  display:grid; }
+
+.side{
+  grid-area:side;}
+
 .notepad-parallax-background {
   position: fixed;
   top: 0;
@@ -1402,4 +1408,4 @@ img.mfp-img {
 .margin-left-right-80 {
   margin-left: 80px !important;
   margin-right: 80px !important;
-}     
+}
