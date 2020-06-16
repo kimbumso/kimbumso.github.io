@@ -6,14 +6,29 @@ tags: [Bumso, kim, rlaqjath]
 imagefeature: fourseasons.jpg
 chart: true
 ---
-<figure>
-	<img src="{{ site.url }}/images/gguji.jpeg" alt="농부">
-    &nbsp;
-	<img src="{{ site.url }}/images/developer.png" alt="개발자">
-    &nbsp;
-    <img src="{{ site.url }}/images/invester.jpg" alt="투자자">
-	<figcaption>My Futures</figcaption>
-</figure>
+<table align='center'>
+    <tr>
+        <td>
+            <figure>
+	            <img src="{{ site.url }}/images/gguji.jpeg" alt="농부">
+                <figcaption>My Futures</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+	            <img src="{{ site.url }}/images/developer.png" alt="개발자">
+                <figcaption>My Futures</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+	            <img src="{{ site.url }}/images/invester.jpg" alt="투자자">
+                <figcaption>My Futures</figcaption>
+            </figure>
+        </td>
+    </tr>
+</table>
+
 {% assign total_words = 0 %}
 {% assign total_readtime = 0 %}
 {% assign featuredcount = 0 %}
