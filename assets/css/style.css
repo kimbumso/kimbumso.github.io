@@ -16,19 +16,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
 
-.container{
+.wrapper{
   display:grid;
-  grid-template-columns: 20% 1fr;
-  grid-template-rows: 100px 1fr 100px;
+  grid-template-columns: 20% 80%;
   height: 100%;
+  grid-column-gap: 0em;
   grid-template-areas: "side mainContents";
 }
-
-.side{
-  grid-area:side;}
-
-.mainConents{
-  grid-area:mainConents;}
 
 .notepad-parallax-background {
   position: fixed;
