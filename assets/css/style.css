@@ -17,10 +17,18 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
 
 .container{
-  display:grid; }
+  display:grid;
+  grid-template-columns: 20% 1fr;
+  grid-template-rows: 100px 1fr 100px;
+  height: 100%;
+  grid-template-areas: "side mainContents";
+}
 
 .side{
   grid-area:side;}
+
+.mainConents{
+  grid-area:mainConents;}
 
 .notepad-parallax-background {
   position: fixed;
