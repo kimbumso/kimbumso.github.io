@@ -52,89 +52,142 @@ from keras.models import Model, load_model
 from keras.callbacks import ReduceLROnPlateau
 ~~~
 
-
-## 라벨링
+## Data 전처리
 
 ~~~python
 
-age_list = ['(0, 2)','(4, 6)','(8, 12)','(15, 20)','(25, 32)','(38, 43)','(48, 53)','(60, 100)']
-gender_list = ['Male', 'Female']
+img_list = sorted(glob.glob('2d_images/*.tif'))
+mask_list = sorted(glob.glob('2d_masks/*.tif'))
+
+IMG_SIZE = 256
+
+x_data, y_data = np.empty((2, len(img_list), IMG_SIZE, IMG_SIZE, 1), dtype=np.float32)
+
+for i, img_path in enumerate(img_list):
+    img = imread(img_path)
+    img = resize(img, output_shape=(IMG_SIZE, IMG_SIZE, 1), preserve_range=True)
+    x_data[i] = img
+    
+for i, img_path in enumerate(mask_list):
+    img = imread(img_path)
+    img = resize(img, output_shape=(IMG_SIZE, IMG_SIZE, 1), preserve_range=True)
+    y_data[i] = img
+    
+y_data /= 255.
+
+fig, ax = plt.subplots(1, 2)
+ax[0].imshow(x_data[12].squeeze(), cmap='gray')
+ax[1].imshow(y_data[12].squeeze(), cmap='gray')
+
+x_train, x_val, y_train, y_val = train_test_split(x_data, y_data, test_size=0.1)
+
+np.save('dataset/x_train.npy', x_train)
+np.save('dataset/y_train.npy', y_train)
+np.save('dataset/x_val.npy', x_val)
+np.save('dataset/y_val.npy', y_val)
 
 ~~~
 
-<img src="{{ site.url }}/images/practice/Age_Gender_Classification/Screenshot_2020-06-16-17-05-57.png">
+
+## Load Dataset
+# Encoder 차원 축소를 통해 핵심요소 추출 (DownSampling, ex MaxPooling2D)
+# Decoder 압축된 정보로부터 차원 확장을 통해 원하는 정보로 복원 ( UpsSampling , Upsampling2D)
+
+~~~python
+
+x_train = np.load('dataset/x_train.npy')  # CT
+y_train = np.load('dataset/y_train.npy')  # Mask
+x_val = np.load('dataset/x_val.npy')s  # CT정답
+y_val = np.load('dataset/y_val.npy')  # Mask 정답
+
+~~~
+
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-17-10-10-18.png">
 
 ## 모델 사용
 
 ~~~python
 
-detector = dlib.get_frontal_face_detector()  # 얼굴 인식 모듈
+dinputs = Input(shape=(256, 256, 1))
 
-age_net = cv2.dnn.readNetFromCaffe(
-          'models/deploy_age.prototxt', 
-          'models/age_net.caffemodel')  # caffe 로 작된된 모델을 로드
-gender_net = cv2.dnn.readNetFromCaffe(
-          'models/deploy_gender.prototxt', 
-          'models/gender_net.caffemodel')  # caffe 로 작된된 모델을 로드
+net = Conv2D(32, kernel_size=3, activation='relu', padding='same')(inputs)
+net = MaxPooling2D(pool_size=2, padding='same')(net)
 
+net = Conv2D(64, kernel_size=3, activation='relu', padding='same')(net)
+net = MaxPooling2D(pool_size=2, padding='same')(net)
 
+net = Conv2D(128, kernel_size=3, activation='relu', padding='same')(net)
+net = MaxPooling2D(pool_size=2, padding='same')(net)
+
+net = Dense(128, activation='relu')(net)
+
+net = UpSampling2D(size=2)(net)
+net = Conv2D(128, kernel_size=3, activation='sigmoid', padding='same')(net)
+
+net = UpSampling2D(size=2)(net)
+net = Conv2D(64, kernel_size=3, activation='sigmoid', padding='same')(net)
+
+net = UpSampling2D(size=2)(net)
+outputs = Conv2D(1, kernel_size=3, activation='sigmoid', padding='same')(net)
+
+model = Model(inputs=inputs, outputs=outputs)
+
+model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['acc', 'mse'])
+
+model.summary()
+
+# tf 2.x 부터는
+
+model = models.Sequential()
+model.add(layers.Conv2D(32, kernel_size=3 , activation='relu', padding='same', input_shape=(256, 256, 1)))
+model.add(layers.MaxPooling2D())
+model.add(layers.Conv2D(64, kernel_size=3, activation='relu', padding='same'))
+model.add(layers.MaxPooling2D())
+model.add(layers.Conv2D(128, kernel_size=3, activation='relu', padding='same'))
+model.add(layers.MaxPooling2D())
+
+model.add(layers.Dense(128, activation='relu'))
+
+model.add(layers.UpSampling2D(size=2))
+model.add(layers.Conv2D(128, kernel_size=3, activation='sigmoid', padding='same'))
+model.add(layers.UpSampling2D(size=2))
+model.add(layers.Conv2D(64, kernel_size=3, activation='sigmoid', padding='same'))
+model.add(layers.UpSampling2D(size=2))
+model.add(layers.Conv2D(1, kernel_size=3 , activation='sigmoid', padding='same'))
+
+model.summary()
 ~~~
 
-<img src="{{ site.url }}/images/practice/Age_Gender_Classification/Screenshot_2020-06-16-17-06-37.png">
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-17-10-14-52.png">
 
-## Main
+## Train
 
 ~~~python
 
-img_list = glob.glob('img/*.jpg')  # test할 이미지 불러오기
-
-for img_path in img_list:
-  img = cv2.imread(img_path)  # 이미지 로드
-
-  faces = detector(img)  # 얼굴을 찾음
-
-  for face in faces:
-    x1, y1, x2, y2 = face.left(), face.top(), face.right(), face.bottom()  # 얼굴의 위치정보
-
-    face_img = img[y1:y2, x1:x2].copy()  # 이미지에서 얼굴만 추출
-
-    blob = cv2.dnn.blobFromImage(face_img, scalefactor=1, size=(227, 227),
-      mean=(78.4263377603, 87.7689143744, 114.895847746),
-      swapRB=False, crop=False)  # blobFromImage 바이너리 데이터로 변환 
-
-    # predict gender
-    gender_net.setInput(blob)
-    gender_preds = gender_net.forward()  # 테스트 하기 위한 값
-    gender = gender_list[gender_preds[0].argmax()]  # softmax로 모델의 output이 나오기 때문에 확률값으로 나옴 이걸 argmax로 정수형으로 변환. [0.7, 0.3] -> [1, 0]
-
-    # predict age
-    age_net.setInput(blob)
-    age_preds = age_net.forward()  # 테스트 하기 위한 값
-    age = age_list[age_preds[0].argmax()]  # softmax로 모델의 output이 나오기 때문에 확률값으로 나옴 이걸 argmax로 정수형으로 변환. [0.7, 0.3] -> [1, 0]
-
-    # visualize
-    cv2.rectangle(img, (x1, y1), (x2, y2), (255,255,255), 2)
-    overlay_text = '%s %s' % (gender, age)
-    cv2.putText(img, overlay_text, org=(x1, y1), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
-      fontScale=1, color=(0,0,0), thickness=10)  # 나이와 성별을 putText를 이용해서 씀
-    cv2.putText(img, overlay_text, org=(x1, y1),
-      fontFace=cv2.FONT_HERSHEY_SIMPLEX, fontScale=1, color=(255,255,255), thickness=2)
+history = model.fit(x_train, y_train, validation_data=(x_val, y_val), epochs=100, batch_size=32, callbacks=[
+    ReduceLROnPlateau(monitor='val_loss', factor=0.2, patience=10, verbose=1, mode='auto', min_lr=1e-05)
+])
 
 ~~~
 
-<img src="{{ site.url }}/images/practice/Age_Gender_Classification/Screenshot_2020-06-16-17-08-45.png">
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-16-17-08-45.png">
 
-## Test
+## Evaluation
 
 ~~~python
 
-  cv2.imshow('img', img)
-  cv2.imwrite('result/%s' % img_path.split('/')[-1], img)
+fig, ax = plt.subplots(2, 2, figsize=(10, 7))
 
-  key = cv2.waitKey(0) & 0xFF
-  if key == ord('q'):
-    break
+ax[0, 0].set_title('loss')
+ax[0, 0].plot(history.history['loss'], 'r')
+ax[0, 1].set_title('acc')
+ax[0, 1].plot(history.history['acc'], 'b')
+
+ax[1, 0].set_title('val_loss')
+ax[1, 0].plot(history.history['val_loss'], 'r--')
+ax[1, 1].set_title('val_acc')
+ax[1, 1].plot(history.history['val_acc'], 'b--')
 
 ~~~
 
-<img src="{{ site.url }}/images/practice/Age_Gender_Classification/Screenshot_2020-06-16-17-09-43.png">
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-16-17-09-43.png">
