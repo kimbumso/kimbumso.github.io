@@ -170,7 +170,7 @@ history = model.fit(x_train, y_train, validation_data=(x_val, y_val), epochs=100
 
 ~~~
 
-<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-16-17-08-45.png">
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-17-13-58-01.png">
 
 ## Evaluation
 
@@ -190,4 +190,6 @@ ax[1, 1].plot(history.history['val_acc'], 'b--')
 
 ~~~
 
-<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-16-17-09-43.png">
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-17-13-58-54.png">
+
+<img src="{{ site.url }}/images/practice/CT_Lung_Segmentation/Screenshot_2020-06-17-13-59-14.png">
