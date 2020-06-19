@@ -35,7 +35,7 @@ featured: true
 5. Model, predict and solve the problem.
 6. Visualize, report, and present the problem solving steps and final solution.
 7. Supply or submit the results.
- 
+
 기본적으로 설치되어 있어야하는 패키지는 `아래 코드` 를 사용한다.
 
 ~~~python
