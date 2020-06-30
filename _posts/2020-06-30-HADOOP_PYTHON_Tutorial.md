@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HADOOP Tutorial4"
+title: "HADOOP Tutorial"
 description: 
 headline: 
 modified: 2020-06-30
