@@ -444,8 +444,8 @@ if network == "unet":
     net = UNet(nch=nch, nker=nker, learning_type=learning_type).to(device)
 ~~~
 
-<img src="{{ site.url }}/images/Docker/20200803_123246.png">
+<img src="{{ site.url }}/images/study/SRResnet/20200803_123246.png">
 
 <p>&nbsp;</p>
 
-<img src="{{ site.url }}/images/Docker/Screenshot_2020-08-03-12-36-57.png">
+<img src="{{ site.url }}/images/study/SRResnet/Screenshot_2020-08-03-12-36-57.png">
