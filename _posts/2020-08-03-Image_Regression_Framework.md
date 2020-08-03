@@ -17,7 +17,7 @@ featured: true
 
 <p>&nbsp;</p>
 
-[강의 링크](https://www.youtube.com/watch?v=qn3gc-gQDFQ&t=1245s)
+[한요섭박사님 강의 링크 ](https://www.youtube.com/watch?v=qn3gc-gQDFQ&t=1245s)
 
 [GIT 링크](https://github.com/hanyoseob/youtube-cnn-003-pytorch-image-regression-framework)
 
