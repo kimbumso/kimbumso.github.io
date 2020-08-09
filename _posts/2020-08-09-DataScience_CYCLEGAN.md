@@ -24,19 +24,19 @@ featured: true
 [paper 링크](https://arxiv.org/abs/1703.10593)
 
 
-<img src="{{ site.url }}/images/study/CYCLE/20200809_165520.png">
+<img src="{{ site.url }}/images/study/CYCLEGAN/20200809_165520.png">
 
 <p>&nbsp;</p>
 
-<img src="{{ site.url }}/images/study/CYCLE/20200809_165623.png">
+<img src="{{ site.url }}/images/study/CYCLEGAN/20200809_165623.png">
 
 <p>&nbsp;</p>
 
-<img src="{{ site.url }}/images/study/CYCLE/20200809_165810.png">
+<img src="{{ site.url }}/images/study/CYCLEGAN/20200809_165810.png">
 
 <p>&nbsp;</p>
 
-<img src="{{ site.url }}/images/study/CYCLE/20200809_170155.png">
+<img src="{{ site.url }}/images/study/CYCLEGAN/20200809_170155.png">
 
 <p>&nbsp;</p>
 
@@ -645,13 +645,13 @@ class RandomCrop(object):
 
 # image -> photo
 
-<img src="{{ site.url }}/images/study/CYCLE/20200810_075402.png">
+<img src="{{ site.url }}/images/study/CYCLEGAN/20200810_075402.png">
 
 <p>&nbsp;</p>
 
 # photo -> image
 
-<img src="{{ site.url }}/images/study/CYCLE/20200810_075441.png">
+<img src="{{ site.url }}/images/study/CYCLEGAN/20200810_075441.png">
 
 <p>&nbsp;</p>
 

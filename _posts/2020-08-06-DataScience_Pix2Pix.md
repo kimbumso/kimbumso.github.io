@@ -24,7 +24,7 @@ featured: true
 [paper 링크](https://arxiv.org/abs/1406.2661)
 
 
-<img src="{{ site.url }}/images/study/pix2pix/Capture-11-e1543420964600.jpeg">
+<img src="{{ site.url }}/images/study/pix2pix/Capture-11-e1543420964600.jpg">
 
 [이미지 출처](https://neurohive.io/en/popular-networks/pix2pix-image-to-image-translation/)
 
