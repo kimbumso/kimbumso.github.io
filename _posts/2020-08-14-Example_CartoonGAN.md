@@ -72,7 +72,7 @@ plt.figure(figsize=(16, 10))
 plt.imshow(img[:, :, ::-1])  # bgr ->rgb
 ~~~
 
-<img src="{{ site.url }}/images/practice/CarttonGAN/20200814_130255.png">
+<img src="{{ site.url }}/images/practice/CartoonGAN/20200814_130255.png">
 
 ## 적용
 ### Shinkai_net_G_float.pth
@@ -88,7 +88,7 @@ axes[0].imshow(img[:, :, ::-1])
 axes[1].imshow(img_output[:, :, ::-1])
 ~~~
 
-<img src="{{ site.url }}/images/practice/CarttonGAN/01.png">
+<img src="{{ site.url }}/images/practice/CartoonGAN/01.png">
 
 ### Hayao_net_G_float.pth
 
@@ -103,7 +103,7 @@ axes[0].imshow(img[:, :, ::-1])
 axes[1].imshow(img_output[:, :, ::-1])
 ~~~
 
-<img src="{{ site.url }}/images/practice/CarttonGAN/02.png">
+<img src="{{ site.url }}/images/practice/CartoonGAN/02.png">
 
 ### Paprika_net_G_float.pth
 
@@ -118,4 +118,4 @@ axes[0].imshow(img[:, :, ::-1])
 axes[1].imshow(img_output[:, :, ::-1])
 ~~~
 
-<img src="{{ site.url }}/images/practice/CarttonGAN/03.png">
+<img src="{{ site.url }}/images/practice/CartoonGAN/03.png">
