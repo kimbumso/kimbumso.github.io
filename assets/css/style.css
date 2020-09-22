@@ -1744,3 +1744,27 @@ img.mfp-img {
 .u-font-Lobster.u-custom-font {
   font-family: Lobster, cursive !important;
 }
+.u-blog-control a,
+.u-tab-item a,
+.u-nav-item a {
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+}
+.u-repeater-item:not([class*="u-align-"]),
+.u-container-style:not([class*="u-align-"]) {
+  text-align: left;
+}
+.u-repeater {
+  display: grid;
+  grid-template-columns: repeat(3, 33.33333333%);
+}
+.u-repeater-item {
+  display: flex;
+  position: relative;
+  border-width: 0px;
+}
