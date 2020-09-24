@@ -1,0 +1,62 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
+
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+    
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <a class="sidebar-nav-item" href="https://paperswithcode.com">머신러닝 코드</a>
+    <a class="sidebar-nav-item" href="https://arxiv.org/"> 논문사이트</a>
+    <a class="sidebar-nav-item" href="https://www.kaggle.com/kimbumso"> Kaggle</a>
+    <a class="sidebar-nav-item" href="https://cloud.google.com/storage/docs/quickstart-gsutil?hl=ko"> gsutil사용</a>
+    <a class="sidebar-nav-item" href="https://github.com/SKTBrain/KoBERT"> KoBERT skt 에서 만든 BERT</a>
+    <a class="sidebar-nav-item" href="https://zzsza.github.io/data/2018/08/30/google-colab/#google-storage%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B8%B0"> colab 사용</a>
+    <a class="sidebar-nav-item" href="https://github.com/eriklindernoren/Keras-GAN"> kerasGAN</a>
+    <a class="sidebar-nav-item" href="https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf"> ipython -> md 파일 변환</a>
+    <a class="sidebar-nav-item" href="https://github.com/aaren/notedown"> 역전파 알고리즘</a>
+    <a class="sidebar-nav-item" href="http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/"> 특성 선택 알고리즘</a>
+    <a class="sidebar-nav-item" href="https://scikit-learn.org/stable/modules/manifold.html"> 사이킷런 비선형 차원 축소</a>
+    <a class="sidebar-nav-item" href="https://tensorflow.blog/2017/03/30/model-evaluation-selection-and-algorithm-selection/"> 모델 평가와 교차 검증</a>
+    <a class="sidebar-nav-item" href="https://github.com/scikit-learn-contrib/imbalanced-learn#id36"> 인공적인 훈련 샘플 생성(불균형한 클래스를 다루는 기법)</a>
+    <a class="sidebar-nav-item" href="https://link.springer.com/content/pdf/10.1007/BF00058655.pdf"> 배깅</a>
+    <a class="sidebar-nav-item" href="https://www.kaggle.com/bmarcos/image-recognition-gender-detection-inceptionv3"> GAN 얼굴 인식</a>
+    <a class="sidebar-nav-item" href="https://arxiv.org/pdf/0711.0189v1.pdf"> 스펙트럴 군집분석</a>
+    <a class="sidebar-nav-item" href="https://arxiv.org/pdf/1502.03167.pdf"> 배치 정규화(Batch Normalization)</a>
+    <a class="sidebar-nav-item" href="https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/"> 합성곱 출력 크기 관련 논문</a>
+    <a class="sidebar-nav-item" href="https://arxiv.org/pdf/1509.09308.pdf"> 위노그라드 최솟값 필터링</a>
+    <a class="sidebar-nav-item" href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf"> 합성곱 네트워크에서 겹침 풀림이 사용되는 논문</a>
+    <a class="sidebar-nav-item" href="https://arxiv.org/pdf/1412.6980.pdf"> 옵티마이저 :Adam</a>
+    <a class="sidebar-nav-item" href="https://disqus.com/by/kimbumso/"> 디스커스 (댓글)</a>
+    <a class="sidebar-nav-item" href="https://sims.krx.co.kr/p/Fids0103/"> 대주주 지분 공시</a>
+    <a class="sidebar-nav-item" href=""> </a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
+  </div>
+</div>

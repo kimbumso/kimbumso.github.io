@@ -22,8 +22,7 @@ Description: Awesome dude, awesome life
 <header class="notepad-site-head">
     <div class="notepad-site-head-menu">
         <a class="notepad-blog-logo" href="{{ site.url }}"><img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
-        
-        
+        <label for="sidebar-checkbox" class="sidebar-toggle">Link</label>
         <div class="notepad-blog-menu">      
     <div class="notepad-mobile-menu show-for-small">
         <a href="#"><i class="fa fa-bars"></i></a>
@@ -40,7 +39,6 @@ Description: Awesome dude, awesome life
             {% endif %} </li>
 {% endfor %}            
             <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-            <li><a href="#" title="Links_a"><i class="icon-rss"></i> Link</a></li>
     </ul>
 </div>
         <div class="clearfix"></div>
@@ -131,227 +129,15 @@ Description: Awesome dude, awesome life
     </table>
   </section>
   -->
+  {% include sidebar.html %}
   <main class="notepad-content" role="main">
-        <div class="wrapper">
-            <div class="sides">
-                <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">머신러닝 코드</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://paperswithcode.com/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">논문사이트</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://arxiv.org/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">Kaggle</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://www.kaggle.com/kimbumso">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">gsutil사용</h3>
-                      <p class="margin-bottom-30">Discription </p> 
-                      <a class="button button-dark-stroke text-size-12" href="https://cloud.google.com/storage/docs/quickstart-gsutil?hl=ko">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">KoBERT skt 에서 만든 BERT </h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://github.com/SKTBrain/KoBERT">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">colab 사용</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://zzsza.github.io/data/2018/08/30/google-colab/#google-storage%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B8%B0">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">kerasGAN</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://github.com/eriklindernoren/Keras-GAN">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">ipython -> md 파일 변환</h3>
-                      <p class="margin-bottom-30">Convert IPython Notebooks to markdown (and back) </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">역전파 알고리즘 </h3>
-                      <p class="margin-bottom-30">아래 링크에 함수 미분, 편미분, 그래디언트, 야코비 행렬에 대해 설명 </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://github.com/aaren/notedown">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">특성 선택 알고리즘</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">사이킷런 비선형 차원 축소</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://scikit-learn.org/stable/modules/manifold.html">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">모델 평가와 교차 검증</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://tensorflow.blog/2017/03/30/model-evaluation-selection-and-algorithm-selection/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">인공적인 훈련 샘플 생성(불균형한 클래스를 다루는 기법)</h3>
-                      <p class="margin-bottom-30">SMOTE(Synthetic Minority Over-sampling Technique) </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://github.com/scikit-learn-contrib/imbalanced-learn#id36">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <!--
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">배깅</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://link.springer.com/content/pdf/10.1007/BF00058655.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">GAN 얼굴 인식</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://www.kaggle.com/bmarcos/image-recognition-gender-detection-inceptionv3">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">스펙트럴 군집분석</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://arxiv.org/pdf/0711.0189v1.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">배치 정규화(Batch Normalization)</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://arxiv.org/pdf/1502.03167.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">합성곱 출력 크기 관련 논문</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">배치 정규화(Batch Normalization)</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://arxiv.org/pdf/1502.03167.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">위노그라드 최솟값 필터링</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://arxiv.org/pdf/1509.09308.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">합성곱 네트워크에서 겹침 풀림이 사용되는 논문</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">옵티마이저 :Adam</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://arxiv.org/pdf/1412.6980.pdf">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">디스커스 (댓글)</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://disqus.com/by/kimbumso/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">대주주 지분 공시</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://sims.krx.co.kr/p/Fids0103/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">인베스팅닷컴</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://kr.investing.com/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <div class="padding-2x block-bordered">
-                      <i class="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                      <h3 class="text-thin">네이버 종토방</h3>
-                      <p class="margin-bottom-30">Discription </p>
-                      <a class="button button-dark-stroke text-size-12" href="https://finance.naver.com/research/">GET MORE INFO</a>
-                    </div>
-                  </div>
-                -->
-            </div>
-            <div class="mainConents">
-                {{ content }}
-            </div>
-        </div>
-</main>
-    {% include footer.html %}
-
-{% include scripts.html %}  
+    <div class="wrapper">
+      <div class="mainConents">
+        {{ content }}
+      </div>
+    </div>
+  </main>
+  {% include footer.html %}
+  {% include scripts.html %}  
 </body>
 </html>
