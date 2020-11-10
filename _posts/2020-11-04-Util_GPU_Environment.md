@@ -95,7 +95,7 @@ featured: true
 
 ### 4. terminal이나 Jupyter 사용 가능.
 
-<img src="{{ site.url }}/images/Docker/2020_10_28/docker01.png">
+<img src="{{ site.url }}/images/Docker/2020_11_04/backendAI.png">
 
 <p>&nbsp;</p>
 
