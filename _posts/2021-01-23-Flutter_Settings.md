@@ -24,42 +24,23 @@ featured: true
 
 ## What is Flutter?
 ### Flutter - 가장 빠른 아름다운 네이티브 앱 이라고 공식 홈페이지에서 설명..
-<span>
-    <table>
-        <tr style="color:red; font-size:1em;">
-            <td>
-                빠른 개발
-            </td>
-            <td>
-                Stateful Hot Reload
-            </td>
-        </tr> 
-        <tr style="color:blue; font-size:1em;">
-            <td>
-                표현력 있고 유연한 UI
-            </td>
-            <td>
-                계층형 아키텍처를 통해 완벽한 커스터마이징
-            </td>
-        </tr> 
-        <tr style="color:green; font-size:1em;">
-            <td>
-                네이티브 수준의 성능
-            </td>
-            <td>
-                Flutter 위젯은 플랫폼별 차이를 통합하여 모두에서 네이티브 수준의 성능으로 제공
-            </td>
-        </tr> 
-    </table>
-</span>
+|제목|설명|
+|---|---|
+|<span style="color:red; font-size:1em;">빠른 개발</span>|Stateful Hot Reload|
+|<span style="color:blue; font-size:1em;">표현력 있고 유연한 UI</span>|계층형 아키텍처를 통해 완벽한 커스터마이징|
+|<span style="color:green; font-size:1em;">네이티브 수준의 성능</span>|Flutter 위젯은 플랫폼별 차이를 통합하여 모두에서 네이티브 수준의 성능으로 제공|
 
-<span>
-    <a href="https://developer.android.com/studio" style="color:red;">[android Studio 링크]</a></br>
-    <a href="https://flutter.dev/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfWgVvTM2VWmK_mW7OgqAwquNBomJwMAEUFLRf7AJB7yYtMZe6F4nKBoCW6EQAvD_BwE&gclsrc=aw.ds">[flutter 링크]</a></br>
-    <a href="https://code.visualstudio.com/" style="color:red;">[vscode 링크]</a></br>
-    <a href="https://www.youtube.com/channel/UCKmMoTLPAesXAav0tAUOjUg">[참고 강의 링크 1 (개발자 권태뽕 유튜브 : 빠르게 퀴즈앱 개발)]</a></br>
-    <a href="https://www.youtube.com/channel/UCUH2DSbsNUz2sW3kBNn4ibw" style="color:red;">[참고 강의 링크 2 (The Coding Papa 유튜브 채널 : 기본)]</a></br>
-</span>
+<p>&nbsp;</p>
+
+[android Studio 링크](https://developer.android.com/studio)
+
+[flutter 링크](https://flutter.dev/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfWgVvTM2VWmK_mW7OgqAwquNBomJwMAEUFLRf7AJB7yYtMZe6F4nKBoCW6EQAvD_BwE&gclsrc=aw.ds)
+
+[vscode 링크](https://code.visualstudio.com/)
+
+[참고 강의 링크 1 (개발자 권태뽕 유튜브 : 빠르게 퀴즈앱 개발)](https://www.youtube.com/channel/UCKmMoTLPAesXAav0tAUOjUg)
+
+[참고 강의 링크 2 (The Coding Papa 유튜브 채널 : 기본)](https://www.youtube.com/channel/UCUH2DSbsNUz2sW3kBNn4ibw)
 
 [참고 강의 링크 3 (Heavy Fran 유튜브 채널 : framework)](https://www.youtube.com/channel/UCqxo_5t5-_Uhq9TfhTAat0A)
 
