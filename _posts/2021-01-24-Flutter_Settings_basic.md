@@ -57,25 +57,25 @@ featured: true
 ###  기본설치시 android, ios, build, lib, test 기본 폴더 제공 기본소스는 lib폴더에서 작성
 
 <p1 style="color:red; font-size:1em;">
-    1. 이미지 및 미디어 관련 파일을 넣기위해 assets 폴더 추가 </br>
-    2. 각종 외부 라이브러리는 pubspec.yaml 에서 import. 어떤 라이브러리가 있는지는 pub.dev site에서 확인</br>
-    3. 앱 test 시 lib에 있는 main.dart 가 실행.</br>
-    4. code작성 template로 위에 flutter structure 대로 작성</br>
-    5. provider 사용하여 변수관리</br>
-    6. lib 는 config, domain(모델관리), provider, screen(view 관리)로 구성</br>
-    7. image 사용을 위해선  pubspec.yaml 에서 assets: 에서 경로를 추가해야함</br>
-    8. flutter는 android 27 이상부터 작동하므로 앱 adk 를 올릴 때 해당 버전 이상부터 하도록 설정(android studio)</br>
-    9. firebase 설정(각종 로그인 정보를 저장하기 위해)</br>
-    10. view는 Screen 과 Widget으로 나누어 작성. Screen에 위젯을 불러와 그리는 구조</br>
-    11. Widget은 StatefulWidget과 StatelessWidget이 있는데 상황에 맞게 적절하게 섞어서 써야함.</br>
+    1. 이미지 및 미디어 관련 파일을 넣기위해 assets 폴더 추가 <br>
+    2. 각종 외부 라이브러리는 pubspec.yaml 에서 import. 어떤 라이브러리가 있는지는 pub.dev site에서 확인<br>
+    3. 앱 test 시 lib에 있는 main.dart 가 실행.<br>
+    4. code작성 template로 위에 flutter structure 대로 작성<br>
+    5. provider 사용하여 변수관리<br>
+    6. lib 는 config, domain(모델관리), provider, screen(view 관리)로 구성<br>
+    7. image 사용을 위해선  pubspec.yaml 에서 assets: 에서 경로를 추가해야함<br>
+    8. flutter는 android 27 이상부터 작동하므로 앱 adk 를 올릴 때 해당 버전 이상부터 하도록 설정(android studio)<br>
+    9. firebase 설정(각종 로그인 정보를 저장하기 위해)<br>
+    10. view는 Screen 과 Widget으로 나누어 작성. Screen에 위젯을 불러와 그리는 구조<br>
+    11. Widget은 StatefulWidget과 StatelessWidget이 있는데 상황에 맞게 적절하게 섞어서 써야함.<br>
 </p1>
 
 ###  Provider 사용 요령 
 <p2 style="color:green; font-size:1em;">
-    1. 모델 클래스 생성</br>
-    2. 프로바이더 생성 및 로직 작성</br>
-    3. main 에 MultiProvider에 작성 프로바이더 등록</br>
-    4. Screen 에서 사용</br>
+    1. 모델 클래스 생성<br>
+    2. 프로바이더 생성 및 로직 작성<br>
+    3. main 에 MultiProvider에 작성 프로바이더 등록<br>
+    4. Screen 에서 사용<br>
 </p2>
 
 <p>&nbsp;</p>

@@ -54,11 +54,11 @@ featured: true
 .settings 에서 flutter 확장 추가
 ### flutter doctor 설치
 https://flutter-ko.dev/docs/get-started/install/windows
-</br>
+<br>
 flutter doctor를 실행하면 요구하는 대로 설치진행
 
 ### vscode 설치
-flutter doctor 를 실행하면 vscode 연동하라고 하는데 잘 따라해주도록한다.</br>
+flutter doctor 를 실행하면 vscode 연동하라고 하는데 잘 따라해주도록한다.<br>
 .extention 에서 flutter 확장 추가
 
 ### android Emulator 설정
