@@ -24,6 +24,7 @@ featured: true
 
 ## What is Flutter?
 ### Flutter - 가장 빠른 아름다운 네이티브 앱 이라고 공식 홈페이지에서 설명..
+
 |제목|설명|
 |---|---|
 |<span style="color:red; font-size:1em;">빠른 개발</span>|Stateful Hot Reload|
@@ -56,7 +57,7 @@ featured: true
 
 ###  기본설치시 android, ios, build, lib, test 기본 폴더 제공 기본소스는 lib폴더에서 작성
 
-<p1 style="color:red; font-size:1em;">
+<span style="color:red; font-size:1em;">
     1. 이미지 및 미디어 관련 파일을 넣기위해 assets 폴더 추가 <br>
     2. 각종 외부 라이브러리는 pubspec.yaml 에서 import. 어떤 라이브러리가 있는지는 pub.dev site에서 확인<br>
     3. 앱 test 시 lib에 있는 main.dart 가 실행.<br>
@@ -68,15 +69,15 @@ featured: true
     9. firebase 설정(각종 로그인 정보를 저장하기 위해)<br>
     10. view는 Screen 과 Widget으로 나누어 작성. Screen에 위젯을 불러와 그리는 구조<br>
     11. Widget은 StatefulWidget과 StatelessWidget이 있는데 상황에 맞게 적절하게 섞어서 써야함.<br>
-</p1>
+</span>
 
 ###  Provider 사용 요령 
-<p2 style="color:green; font-size:1em;">
+<span style="color:green; font-size:1em;">
     1. 모델 클래스 생성<br>
     2. 프로바이더 생성 및 로직 작성<br>
     3. main 에 MultiProvider에 작성 프로바이더 등록<br>
     4. Screen 에서 사용<br>
-</p2>
+</span>
 
 <p>&nbsp;</p>
 
