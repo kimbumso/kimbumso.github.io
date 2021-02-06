@@ -47,7 +47,13 @@ https://sourceforge.net/projects/vcxsrv/
 
 <img src="https://storage.googleapis.com/bskim_bucket/gitBlog/WSL2/20210206/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-02-06%20210616.png">
 
-## 2. Ubuntu Setting 
+## 2. Ubuntu Setting
+
+~~~python
+# vi ~/.bashrc
+export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+export LIBGL_ALWAYS_INDIRECT=1
+~~~
 
 <p>&nbsp;</p>
 
@@ -58,10 +64,6 @@ https://sourceforge.net/projects/vcxsrv/
 <img src="https://storage.googleapis.com/bskim_bucket/gitBlog/WSL2/20210206/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-02-06%20213442.png">
 
 <p>&nbsp;</p>
-
-
-<img src="https://storage.googleapis.com/bskim_bucket/gitBlog/WSL2/20210206/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-02-06%20214835.png">
-
 
 ~~~python
 
@@ -80,7 +82,14 @@ sudo tasksel install xubuntu-desktop
 
 sudo apt install gtk2-engines
 
+sudo apt install -y gedit firefox
+
 ~~~
+
+<img src="https://storage.googleapis.com/bskim_bucket/gitBlog/WSL2/20210206/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-02-06%20214835.png">
+
+
+
 
 - 만약 위대로 했는데 창이 안열린다면 방화벽의 가능성이 높다. 방화벽을 해제해주도록 하자
 
