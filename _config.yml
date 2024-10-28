@@ -12,7 +12,7 @@ dropcap:			true
 
 remote_theme : hmfaysal/Notepad
 
-url                      : "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" https://kimbumso.github.io
+url                      : "https://kimbumso.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Owner/author information
